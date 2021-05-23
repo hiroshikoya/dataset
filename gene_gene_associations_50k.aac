@@ -1,0 +1,500 @@
+SMAD4,Rnf138,Affinity Capture-Luminescence
+SMAD4,Smad1,Affinity Capture-Luminescence
+SMAD4,Smad3,Affinity Capture-Luminescence
+SMAD4,Stat1,Affinity Capture-Luminescence
+SMAD4,Ocln,Affinity Capture-Luminescence
+SMAD4,Hdgf,Affinity Capture-Luminescence
+SMAD4,Rab34,Affinity Capture-Luminescence
+SMAD4,Ubb,Affinity Capture-Luminescence
+SMAD4,Rps27a,Affinity Capture-Luminescence
+SMAD4,Itk,Affinity Capture-Luminescence
+SMAD4,Ap2b1,Affinity Capture-Luminescence
+SMAD4,Rsph14,Affinity Capture-Luminescence
+SMAD4,Smad2,Affinity Capture-Luminescence
+SMAD4,Apbb2,Affinity Capture-Luminescence
+SMAD7,Wwp2,Affinity Capture-Luminescence
+TGFBR1,Nkiras1,Affinity Capture-Luminescence
+TGFBR1,Rasd2,Affinity Capture-Luminescence
+TGFBR1,Rab13,Affinity Capture-Luminescence
+TGFBR1,Rab33b,Affinity Capture-Luminescence
+TGFBR1,Rhebl1,Affinity Capture-Luminescence
+TGFBR1,Rab6b,Affinity Capture-Luminescence
+TGFBR1,Rhod,Affinity Capture-Luminescence
+TGFBR1,Rab3b,Affinity Capture-Luminescence
+TGFBR1,Rab38,Affinity Capture-Luminescence
+TGFBR1,Rhobtb1,Affinity Capture-Luminescence
+TGFBR1,Arl4d,Affinity Capture-Luminescence
+TGFBR1,Git2,Affinity Capture-Luminescence
+TGFBR1,Gna13,Affinity Capture-Luminescence
+TGFBR1,Arhgap31,Affinity Capture-Luminescence
+TGFBR1,Chn2,Affinity Capture-Luminescence
+TGFBR1,Bcr,Affinity Capture-Luminescence
+TGFBR1,Chn1,Affinity Capture-Luminescence
+TGFBR1,Fbxl12,Affinity Capture-Luminescence
+TGFBR1,Atg16l1,Affinity Capture-Luminescence
+TGFBR1,Prpf4,Affinity Capture-Luminescence
+TGFBR1,Cdc20,Affinity Capture-Luminescence
+TGFBR1,Katnb1,Affinity Capture-Luminescence
+TGFBR1,Nup37,Affinity Capture-Luminescence
+TGFBR1,Gnb3,Affinity Capture-Luminescence
+TGFBR1,Wsb1,Affinity Capture-Luminescence
+TGFBR1,Preb,Affinity Capture-Luminescence
+TGFBR1,Wdr13,Affinity Capture-Luminescence
+TGFBR1,Wdr61,Affinity Capture-Luminescence
+TGFBR1,Gnb2,Affinity Capture-Luminescence
+TGFBR1,Fbxw5,Affinity Capture-Luminescence
+TGFBR1,Csnk2a2,Affinity Capture-Luminescence
+TGFBR1,Cdkl1,Affinity Capture-Luminescence
+TGFBR1,Nek6,Affinity Capture-Luminescence
+TGFBR1,Stk35,Affinity Capture-Luminescence
+TGFBR1,Tssk5,Affinity Capture-Luminescence
+TGFBR1,Mknk2,Affinity Capture-Luminescence
+TGFBR1,Aurkb,Affinity Capture-Luminescence
+TGFBR1,Map2k3,Affinity Capture-Luminescence
+TGFBR1,Ikbkb,Affinity Capture-Luminescence
+TGFBR1,Cdk4,Affinity Capture-Luminescence
+TGFBR1,Eif2ak4,Affinity Capture-Luminescence
+TGFBR1,Dapk2,Affinity Capture-Luminescence
+TGFBR1,Csnk1d,Affinity Capture-Luminescence
+TGFBR1,Nuak2,Affinity Capture-Luminescence
+TGFBR1,Tssk3,Affinity Capture-Luminescence
+TGFBR1,Fancl,Affinity Capture-Luminescence
+TGFBR1,Uhmk1,Affinity Capture-Luminescence
+TGFBR1,Nek8,Affinity Capture-Luminescence
+TGFBR1,Csnk1a1,Affinity Capture-Luminescence
+TGFBR1,Eif2ak1,Affinity Capture-Luminescence
+TGFBR1,Cdk14,Affinity Capture-Luminescence
+TGFBR1,Cdk17,Affinity Capture-Luminescence
+TGFBR1,Chuk,Affinity Capture-Luminescence
+TGFBR1,Cdk6,Affinity Capture-Luminescence
+TGFBR1,Tgfbr1,Affinity Capture-Luminescence
+TGFBR1,Bmpr2,Affinity Capture-Luminescence
+TGFBR1,Stub1,Affinity Capture-Luminescence
+TGFBR1,Ttc1,Affinity Capture-Luminescence
+TGFBR1,Enc1,Affinity Capture-Luminescence
+TGFBR1,Btbd2,Affinity Capture-Luminescence
+TGFBR1,Klhl1,Affinity Capture-Luminescence
+TGFBR1,Skap2,Affinity Capture-Luminescence
+TGFBR1,Itk,Affinity Capture-Luminescence
+TGFBR1,Sntg1,Affinity Capture-Luminescence
+TGFBR1,Plek,Affinity Capture-Luminescence
+TGFBR1,Plekhb1,Affinity Capture-Luminescence
+TGFBR1,Arhgap15,Affinity Capture-Luminescence
+TGFBR1,Arhgef6,Affinity Capture-Luminescence
+TGFBR1,Pard6a,Affinity Capture-Luminescence
+TGFBR1,Dusp10,Affinity Capture-Luminescence
+TGFBR1,Dusp6,Affinity Capture-Luminescence
+TGFBR1,Ilkap,Affinity Capture-Luminescence
+TGFBR1,Ppp3cc,Affinity Capture-Luminescence
+TGFBR1,Ppp1ca,Affinity Capture-Luminescence
+TGFBR1,Ppp6c,Affinity Capture-Luminescence
+TGFBR1,Rnf130,Affinity Capture-Luminescence
+TGFBR1,Rnf138,Affinity Capture-Luminescence
+TGFBR1,Noxo1,Affinity Capture-Luminescence
+TGFBR1,Naa20,Affinity Capture-Luminescence
+TGFBR1,Samd8,Affinity Capture-Luminescence
+TGFBR1,Fkbp1b,Affinity Capture-Luminescence
+TGFBR1,Fkbp1a,Affinity Capture-Luminescence
+TGFBR1,Irf7,Affinity Capture-Luminescence
+TGFBR1,Efna1,Affinity Capture-Luminescence
+TGFBR1,Rhpn2,Affinity Capture-Luminescence
+TGFBR1,Rtkn,Affinity Capture-Luminescence
+TGFBR1,Cdc42ep4,Affinity Capture-Luminescence
+TGFBR1,Stx8,Affinity Capture-Luminescence
+TGFBR1,Rgs19,Affinity Capture-Luminescence
+TGFBR1,Rrh,Affinity Capture-Luminescence
+TGFBR1,Ocln,Affinity Capture-Luminescence
+TGFBR1,Rhoa,Affinity Capture-Luminescence
+TGFBR1,Rhoh,Affinity Capture-Luminescence
+TGFBR1,Rhoj,Affinity Capture-Luminescence
+TGFBR1,Rab34,Affinity Capture-Luminescence
+TGFBR1,Ubb,Affinity Capture-Luminescence
+TGFBR1,Rps27a,Affinity Capture-Luminescence
+TGFBR1,Ubd,Affinity Capture-Luminescence
+TGFBR1,Usp45,Affinity Capture-Luminescence
+TGFBR1,Usp21,Affinity Capture-Luminescence
+TGFBR1,Ube2e3,Affinity Capture-Luminescence
+TGFBR1,Fbxo3,Affinity Capture-Luminescence
+TGFBR1,Fbxo34,Affinity Capture-Luminescence
+TGFBR1,Fbxo24,Affinity Capture-Luminescence
+TGFBR1,Cul5,Affinity Capture-Luminescence
+TGFBR1,Anapc5,Affinity Capture-Luminescence
+TGFBR1,Wwp2,Affinity Capture-Luminescence
+TGFBR1,Smad7,Affinity Capture-Luminescence
+TGFBR1,Stat1,Affinity Capture-Luminescence
+ACVR1,Rab17,Affinity Capture-Luminescence
+ACVR1,Rhoj,Affinity Capture-Luminescence
+ACVR1,Rab33b,Affinity Capture-Luminescence
+ACVR1,Rhod,Affinity Capture-Luminescence
+ACVR1,Nras,Affinity Capture-Luminescence
+ACVR1,Rab3b,Affinity Capture-Luminescence
+ACVR1,Rras2,Affinity Capture-Luminescence
+ACVR1,Chn1,Affinity Capture-Luminescence
+ACVR1,Rps27a,Affinity Capture-Luminescence
+ACVR1,Sqstm1,Affinity Capture-Luminescence
+ACVR1,Tgfbr1,Affinity Capture-Luminescence
+ACVR1,Plek,Affinity Capture-Luminescence
+ACVR1,Plekhb1,Affinity Capture-Luminescence
+ACVR1,Ajuba,Affinity Capture-Luminescence
+ACVR1,Fkbp4,Affinity Capture-Luminescence
+ACVR1,Nkiras1,Affinity Capture-Luminescence
+ACVR1,Rasd2,Affinity Capture-Luminescence
+ACVR1,Rab6b,Affinity Capture-Luminescence
+ACVR1,Rhobtb1,Affinity Capture-Luminescence
+ACVR1,Usp39,Affinity Capture-Luminescence
+ACVR1,Usp21,Affinity Capture-Luminescence
+ACVR1,Ube2e3,Affinity Capture-Luminescence
+ACVR1,Ube2r2,Affinity Capture-Luminescence
+ACVR1,Fbxo3,Affinity Capture-Luminescence
+ACVR1,Wdr61,Affinity Capture-Luminescence
+ACVR1,Ikbkb,Affinity Capture-Luminescence
+ACVR1,Nuak2,Affinity Capture-Luminescence
+ACVR1,Fancl,Affinity Capture-Luminescence
+ACVR1,Uhmk1,Affinity Capture-Luminescence
+ACVR1,Cdk14,Affinity Capture-Luminescence
+ACVR1,Fgd6,Affinity Capture-Luminescence
+ACVR1,Ilkap,Affinity Capture-Luminescence
+ACVR1,Naa20,Affinity Capture-Luminescence
+ACVR1,Ap2b1,Affinity Capture-Luminescence
+ACVR1,Stat1,Affinity Capture-Luminescence
+ACVR1,Stx8,Affinity Capture-Luminescence
+ACVR1,Rhebl1,Affinity Capture-Luminescence
+BMPR1B,Nkiras1,Affinity Capture-Luminescence
+BMPR1B,Rhebl1,Affinity Capture-Luminescence
+BMPR1B,Rhod,Affinity Capture-Luminescence
+BMPR1B,Rab6b,Affinity Capture-Luminescence
+BMPR1B,Rab38,Affinity Capture-Luminescence
+BMPR1B,Rhobtb1,Affinity Capture-Luminescence
+BMPR1B,Rps27a,Affinity Capture-Luminescence
+BMPR1B,Fbxo3,Affinity Capture-Luminescence
+BMPR1B,Sqstm1,Affinity Capture-Luminescence
+BMPR1B,Dcaf7,Affinity Capture-Luminescence
+BMPR1B,Mknk2,Affinity Capture-Luminescence
+BMPR1B,Map2k3,Affinity Capture-Luminescence
+BMPR1B,Fancl,Affinity Capture-Luminescence
+BMPR1B,Tgfbr1,Affinity Capture-Luminescence
+BMPR1B,Lztr1,Affinity Capture-Luminescence
+BMPR1B,Plekhb1,Affinity Capture-Luminescence
+BMPR1B,Fkbp1b,Affinity Capture-Luminescence
+BMPR1B,Fkbp1a,Affinity Capture-Luminescence
+BMPR1B,Irf7,Affinity Capture-Luminescence
+BMPR1B,Rhoj,Affinity Capture-Luminescence
+BMPR1B,Rras2,Affinity Capture-Luminescence
+BMPR1B,Fbxo34,Affinity Capture-Luminescence
+BMPR1B,Stk35,Affinity Capture-Luminescence
+BMPR1B,Cdk14,Affinity Capture-Luminescence
+BMPR1B,Ilkap,Affinity Capture-Luminescence
+BMPR1B,Ppp3cc,Affinity Capture-Luminescence
+BMPR1B,Srgap1,Affinity Capture-Luminescence
+BMPR1B,Naa20,Affinity Capture-Luminescence
+BMPR1B,Rasd2,Affinity Capture-Luminescence
+BMPR1B,Bcr,Affinity Capture-Luminescence
+BMPR1B,Chn1,Affinity Capture-Luminescence
+BMPR1B,1700006A11Rik,Affinity Capture-Luminescence
+BMPR1B,Usp45,Affinity Capture-Luminescence
+BMPR1B,Atg16l1,Affinity Capture-Luminescence
+BMPR1B,Fbxw5,Affinity Capture-Luminescence
+BMPR1B,Cdk4,Affinity Capture-Luminescence
+BMPR1B,Uhmk1,Affinity Capture-Luminescence
+BMPR1B,Bmpr2,Affinity Capture-Luminescence
+BMPR1B,Stub1,Affinity Capture-Luminescence
+BMPR1B,Klhl1,Affinity Capture-Luminescence
+BMPR1B,Arhgef6,Affinity Capture-Luminescence
+BMPR1B,Ppp2ca,Affinity Capture-Luminescence
+BMPR1B,Sh3kbp1,Affinity Capture-Luminescence
+BMPR1B,Smad6,Affinity Capture-Luminescence
+BMPR1B,Smad7,Affinity Capture-Luminescence
+SMURF1,Rhobtb1,Affinity Capture-Luminescence
+SMURF1,Arl4d,Affinity Capture-Luminescence
+SMURF1,Gng11,Affinity Capture-Luminescence
+SMURF1,Rgl3,Affinity Capture-Luminescence
+SMURF1,Arhgef1,Affinity Capture-Luminescence
+SMURF1,Arhgef11,Affinity Capture-Luminescence
+SMURF1,Ubb,Affinity Capture-Luminescence
+SMURF1,Rps27a,Affinity Capture-Luminescence
+SMURF1,Usp45,Affinity Capture-Luminescence
+SMURF1,Fbxo24,Affinity Capture-Luminescence
+SMURF1,Sqstm1,Affinity Capture-Luminescence
+SMURF1,Tbl2,Affinity Capture-Luminescence
+SMURF1,Cdc40,Affinity Capture-Luminescence
+SMURF1,Wdr61,Affinity Capture-Luminescence
+SMURF1,Pak1ip1,Affinity Capture-Luminescence
+SMURF1,Pwp1,Affinity Capture-Luminescence
+SMURF1,Rrp9,Affinity Capture-Luminescence
+SMURF1,Csnk2a2,Affinity Capture-Luminescence
+SMURF1,Cdkl1,Affinity Capture-Luminescence
+SMURF1,Uhmk1,Affinity Capture-Luminescence
+SMURF1,Irak2,Affinity Capture-Luminescence
+SMURF1,Map3k7,Affinity Capture-Luminescence
+SMURF1,Anapc5,Affinity Capture-Luminescence
+SMURF1,Osbpl3,Affinity Capture-Luminescence
+SMURF1,Arhgap15,Affinity Capture-Luminescence
+SMURF1,Lhx9,Affinity Capture-Luminescence
+SMURF1,Rnf14,Affinity Capture-Luminescence
+SMURF1,Rlim,Affinity Capture-Luminescence
+SMURF1,Elp3,Affinity Capture-Luminescence
+SMURF1,Naa20,Affinity Capture-Luminescence
+SMURF1,Ing2,Affinity Capture-Luminescence
+SMURF1,Cxxc1,Affinity Capture-Luminescence
+SMURF1,Gar1,Affinity Capture-Luminescence
+SMURF1,Etv6,Affinity Capture-Luminescence
+SMURF1,Srsf5,Affinity Capture-Luminescence
+SMURF1,Srsf4,Affinity Capture-Luminescence
+SMURF1,Ubtf,Affinity Capture-Luminescence
+SMURF1,Aven,Affinity Capture-Luminescence
+SMURF1,Ash2l,Affinity Capture-Luminescence
+SMURF1,Hdgfrp3,Affinity Capture-Luminescence
+SMURF1,Ecsit,Affinity Capture-Luminescence
+SMURF1,Rit1,Affinity Capture-Luminescence
+SMURF1,Rasd2,Affinity Capture-Luminescence
+SMURF1,Inpp5b,Affinity Capture-Luminescence
+SMURF1,Arhgef7,Affinity Capture-Luminescence
+SMURF1,Sf3a1,Affinity Capture-Luminescence
+SMURF1,Fbxo3,Affinity Capture-Luminescence
+SMURF1,Cul5,Affinity Capture-Luminescence
+SMURF1,Ppp2r2d,Affinity Capture-Luminescence
+SMURF1,Tssk5,Affinity Capture-Luminescence
+SMURF1,Ripk2,Affinity Capture-Luminescence
+SMURF1,Map2k3,Affinity Capture-Luminescence
+SMURF1,Wee1,Affinity Capture-Luminescence
+SMURF1,Cdk14,Affinity Capture-Luminescence
+SMURF1,Stub1,Affinity Capture-Luminescence
+SMURF1,Dnajc7,Affinity Capture-Luminescence
+SMURF1,Rapsn,Affinity Capture-Luminescence
+SMURF1,Lonrf3,Affinity Capture-Luminescence
+SMURF1,Zbtb8b,Affinity Capture-Luminescence
+SMURF1,Ppp1cb,Affinity Capture-Luminescence
+SMURF1,Trim35,Affinity Capture-Luminescence
+SMURF1,Rnf141,Affinity Capture-Luminescence
+SMURF1,Rnf138,Affinity Capture-Luminescence
+SMURF1,Ap2b1,Affinity Capture-Luminescence
+SMURF1,Smad3,Affinity Capture-Luminescence
+SMURF1,Smad6,Affinity Capture-Luminescence
+SMURF1,Smad7,Affinity Capture-Luminescence
+SMURF1,Stat1,Affinity Capture-Luminescence
+SMURF1,Rhpn2,Affinity Capture-Luminescence
+SMURF1,Rtkn,Affinity Capture-Luminescence
+SMURF1,Ocln,Affinity Capture-Luminescence
+SMURF1,Apbb2,Affinity Capture-Luminescence
+SMURF2,Rasd2,Affinity Capture-Luminescence
+SMURF2,Arhgef1,Affinity Capture-Luminescence
+SMURF2,Nek6,Affinity Capture-Luminescence
+SMURF2,Anapc5,Affinity Capture-Luminescence
+SMURF2,Rnf14,Affinity Capture-Luminescence
+SMURF2,Rnf2,Affinity Capture-Luminescence
+SMURF2,Ing2,Affinity Capture-Luminescence
+SMURF2,Gar1,Affinity Capture-Luminescence
+SMURF2,Smad3,Affinity Capture-Luminescence
+SMURF2,Smad6,Affinity Capture-Luminescence
+SMURF2,Smad7,Affinity Capture-Luminescence
+SMURF2,Stat1,Affinity Capture-Luminescence
+SMURF2,Epha1,Affinity Capture-Luminescence
+SMURF2,Irf3,Affinity Capture-Luminescence
+SMURF2,Srsf4,Affinity Capture-Luminescence
+SMURF2,Ash2l,Affinity Capture-Luminescence
+SMURF2,Hdgfrp3,Affinity Capture-Luminescence
+SMURF2,Nkiras1,Affinity Capture-Luminescence
+SMURF2,Rab22a,Affinity Capture-Luminescence
+SMURF2,Rab13,Affinity Capture-Luminescence
+SMURF2,Rab17,Affinity Capture-Luminescence
+SMURF2,Rab14,Affinity Capture-Luminescence
+SMURF2,Rhod,Affinity Capture-Luminescence
+SMURF2,Nras,Affinity Capture-Luminescence
+SMURF2,Rac1,Affinity Capture-Luminescence
+SMURF2,Rras2,Affinity Capture-Luminescence
+SMURF2,Smap1,Affinity Capture-Luminescence
+SMURF2,Gng2,Affinity Capture-Luminescence
+SMURF2,Ube2g1,Affinity Capture-Luminescence
+SMURF2,Ppid,Affinity Capture-Luminescence
+SMURF2,Smad1,Affinity Capture-Luminescence
+SMURF2,Smad2,Affinity Capture-Luminescence
+SMURF2,Fkbp4,Affinity Capture-Luminescence
+SMURF2,Irf8,Affinity Capture-Luminescence
+RNF5,FHOD1,Two-hybrid
+STK19,POLE,Two-hybrid
+STK19,POLR2G,Two-hybrid
+STK19,SLC29A1,Two-hybrid
+STK19,PRAME,Two-hybrid
+NELFE,NELFB,Two-hybrid
+NELFE,NCOR1,Two-hybrid
+NELFE,CACTIN,Two-hybrid
+LSM2,LSM8,Two-hybrid
+LSM2,LSM3,Two-hybrid
+LSM2,LSM7,Two-hybrid
+CLIC1,LSM1,Two-hybrid
+ABHD16A,IFITM1,Two-hybrid
+ABHD16A,RNF5,Two-hybrid
+ABHD16A,HM13,Two-hybrid
+ABHD16A,TMEM147,Two-hybrid
+ABHD16A,TMEM222,Two-hybrid
+ABHD16A,DNAJC1,Two-hybrid
+ABHD16A,GPRC5C,Two-hybrid
+ABHD16A,SPAG7,Two-hybrid
+ABHD16A,SAFB,Two-hybrid
+ABHD16A,ATP5G3,Two-hybrid
+CSNK2B,CSNK2A2,Two-hybrid
+CSNK2B,LYN,Two-hybrid
+CSNK2B,CSNK2B,Two-hybrid
+CSNK2B,RPL5,Two-hybrid
+CSNK2B,MBD4,Two-hybrid
+C6orf47,FGFR3,Two-hybrid
+PRRC2A,EIF3E,Two-hybrid
+PRRC2A,IMMT,Two-hybrid
+PRRC2A,IFT88,Two-hybrid
+PRRC2A,UBAP2L,Two-hybrid
+PRRC2A,C1QBP,Two-hybrid
+ATP6V1G2,ATP6V1E1,Two-hybrid
+PRRC2A,HNRNPA1,Two-hybrid
+PRRC2A,HNRNPM,Two-hybrid
+GORASP2,TSC22D4,Two-hybrid
+KIAA0408,CEP72,Two-hybrid
+TRIM39,TRIM39,Two-hybrid
+TRAF2,CDCA3,Two-hybrid
+FCHSD2,CCDC158,Two-hybrid
+RHOXF2,LENG8,Two-hybrid
+MAGEA11,MGME1,Two-hybrid
+KRT15,MCM10,Two-hybrid
+CALCOCO2,TP53RK,Two-hybrid
+BNIP3L,DOK5,Two-hybrid
+CCDC85B,FAM27E3,Two-hybrid
+MCM10,CEP70,Two-hybrid
+KRT81,KXD1,Two-hybrid
+ACTB,CFL1,Two-hybrid
+CCDC85B,ZNF250,Two-hybrid
+LMO2,MAPRE2,Two-hybrid
+EWSR1,PRTFDC1,Two-hybrid
+TRIM29,CRACR2A,Two-hybrid
+CLUAP1,CINP,Two-hybrid
+DVL3,CCNK,Two-hybrid
+MAGEH1,MOAP1,Two-hybrid
+MAGEA11,LNX1,Two-hybrid
+QPRT,KRTAP4-12,Two-hybrid
+DCTD,LNX1,Two-hybrid
+VIM,ALS2CR11,Two-hybrid
+TRAF2,FAM120B,Two-hybrid
+PHLDA1,KRTAP4-12,Two-hybrid
+KLHL42,USHBP1,Two-hybrid
+TRAF2,ZBTB25,Two-hybrid
+MEAF6,L3MBTL2,Two-hybrid
+TRIP10,WBP11,Two-hybrid
+ZSCAN32,ZSCAN32,Two-hybrid
+RBM10,PTBP2,Two-hybrid
+RWDD2B,GADD45G,Two-hybrid
+SULT1E1,ENOX1,Two-hybrid
+POM121,COL4A3BP,Two-hybrid
+PLSCR1,CPSF6,Two-hybrid
+ZBED1,SPEF1,Two-hybrid
+LGALS8,CALCOCO2,Two-hybrid
+DAZAP2,DCUN1D1,Two-hybrid
+TRIM23,RIBC2,Two-hybrid
+CALCOCO2,FBF1,Two-hybrid
+CBS,VTA1,Two-hybrid
+STK24,PDCD10,Two-hybrid
+TRIP13,C11orf54,Two-hybrid
+CEBPG,MLLT6,Two-hybrid
+HGS,EXOC7,Two-hybrid
+ZNF446,ZSCAN16,Two-hybrid
+CCDC85B,KANSL1,Two-hybrid
+KXD1,MAP1LC3B,Two-hybrid
+EWSR1,ZDHHC3,Two-hybrid
+ATF4,GPS2,Two-hybrid
+SAT1,RBM17,Two-hybrid
+TRAF2,FBXO28,Two-hybrid
+MYL6,NUDT21,Two-hybrid
+RIBC2,GTPBP3,Two-hybrid
+MDFI,DDX19A,Two-hybrid
+PRKCI,PARD6A,Two-hybrid
+EWSR1,MSC,Two-hybrid
+RBPMS,STRBP,Two-hybrid
+NEK6,CCDC85B,Two-hybrid
+YWHAG,KIAA0408,Two-hybrid
+RBPMS,DTX2,Two-hybrid
+TRIP13,GPRIN2,Two-hybrid
+DTNB,TSACC,Two-hybrid
+GRAP2,ZBTB7B,Two-hybrid
+RBPMS,TOLLIP,Two-hybrid
+RNF7,ITM2C,Two-hybrid
+OTX1,KRTAP4-12,Two-hybrid
+FXR2,RTN3,Two-hybrid
+PCBD1,NUDT18,Two-hybrid
+TLK1,TLK1,Two-hybrid
+EWSR1,SLC22A24,Two-hybrid
+GYG1,GYS1,Two-hybrid
+GSTM3,GSTM3,Two-hybrid
+PHKB,C20orf27,Two-hybrid
+QPRT,SUFU,Two-hybrid
+MVK,MVK,Two-hybrid
+HMG20A,TESC,Two-hybrid
+EXOC7,ZC3H14,Two-hybrid
+NME5,DYDC1,Two-hybrid
+DCAF8,GTPBP3,Two-hybrid
+ARHGEF15,MOB4,Two-hybrid
+ANXA11,PLSCR1,Two-hybrid
+AP1M1,TIFA,Two-hybrid
+ZBTB43,ZNF417,Two-hybrid
+LDOC1,LNX1,Two-hybrid
+CLDN7,RHOXF2,Two-hybrid
+BAD,SFN,Two-hybrid
+CALCOCO2,ZC2HC1C,Two-hybrid
+HNRNPK,RBM41,Two-hybrid
+VIM,KAT7,Two-hybrid
+VIM,TCHP,Two-hybrid
+HOXA1,MDFI,Two-hybrid
+CALCOCO2,CCDC185,Two-hybrid
+RIBC2,USHBP1,Two-hybrid
+PLSCR1,RASD1,Two-hybrid
+RAD54B,CCDC33,Two-hybrid
+KRT15,SMARCD1,Two-hybrid
+CCDC85B,PBXIP1,Two-hybrid
+USHBP1,DYDC1,Two-hybrid
+DVL2,PCBD1,Two-hybrid
+CCDC85B,ZNF821,Two-hybrid
+CTPS2,CTPS2,Two-hybrid
+MDFI,AASDHPPT,Two-hybrid
+CCDC85B,NIF3L1,Two-hybrid
+BIRC2,MAGEA11,Two-hybrid
+CCNK,TSC22D4,Two-hybrid
+GADD45A,DCTN2,Two-hybrid
+ZSCAN32,ZNF446,Two-hybrid
+KRT6B,KRT15,Two-hybrid
+CPSF6,GIN1,Two-hybrid
+POM121,AGR2,Two-hybrid
+PRR13,KLHL12,Two-hybrid
+PHF10,L3MBTL2,Two-hybrid
+MDFI,AP5Z1,Two-hybrid
+VSNL1,DTX2,Two-hybrid
+PHPT1,DNMT3L,Two-hybrid
+MAGEA1,MIEF1,Two-hybrid
+NOL3,NOL3,Two-hybrid
+MDFI,FZD9,Two-hybrid
+TRIM23,TRIM23,Two-hybrid
+CUTC,LNX1,Two-hybrid
+PCBD1,PCBD1,Two-hybrid
+HNRNPK,CNNM3,Two-hybrid
+ZMYND19,PPP1R37,Two-hybrid
+RBPMS,LZTS2,Two-hybrid
+NUP62,NUP54,Two-hybrid
+FBXW5,KRTAP4-12,Two-hybrid
+PHC2,FHL3,Two-hybrid
+MLX,GABARAPL2,Two-hybrid
+PRC1,USHBP1,Two-hybrid
+PRTFDC1,NIF3L1,Two-hybrid
+NME1,WDYHV1,Two-hybrid
+PBX3,AGTRAP,Two-hybrid
+PIAS2,NAV2,Two-hybrid
+C19orf57,C19orf25,Two-hybrid
+KLHL12,KLHL12,Two-hybrid
+2-Sep,DAZAP2,Two-hybrid
+KIAA0408,SORBS3,Two-hybrid
+APPL1,APPL2,Two-hybrid
+CCNK,CCDC85B,Two-hybrid
+DVL2,USP5,Two-hybrid
+CRY1,PLSCR1,Two-hybrid
+HOXB6,SAT1,Two-hybrid
+WDYHV1,DCTPP1,Two-hybrid
+RBM11,RHOXF2,Two-hybrid
+FOXS1,RBPMS,Two-hybrid
+THAP7,LURAP1,Two-hybrid
+SLC25A6,PLSCR1,Two-hybrid
+EYA2,DMRTB1,Two-hybrid
+NFIC,LLPH,Two-hybrid

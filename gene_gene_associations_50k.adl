@@ -1,0 +1,500 @@
+IKBKG,RPS6KB2,Reconstituted Complex
+IKBKG,GRK4,Reconstituted Complex
+IKBKG,PRKD3,Reconstituted Complex
+IKBKG,MAP3K2,Reconstituted Complex
+IKBKG,AKT1,Reconstituted Complex
+IKBKG,SGK1,Reconstituted Complex
+IKBKG,ITK,Reconstituted Complex
+IKBKG,TYRO3,Reconstituted Complex
+IKBKG,MERTK,Reconstituted Complex
+IKBKG,ALK,Reconstituted Complex
+IKBKG,JAK3,Reconstituted Complex
+IKBKG,RET,Reconstituted Complex
+IKBKG,ROR2,Reconstituted Complex
+IKBKG,SRPK1,Reconstituted Complex
+IKBKG,PCK1,Reconstituted Complex
+IKBKG,ROS1,Reconstituted Complex
+IKBKG,DAPK1,Reconstituted Complex
+IKBKG,CUEDC1,Reconstituted Complex
+IKBKG,RNF7,Reconstituted Complex
+IKBKG,RBCK1,Reconstituted Complex
+IKBKG,PSMA3,Reconstituted Complex
+IKBKG,WDR5,Reconstituted Complex
+IKBKG,LZIC,Reconstituted Complex
+IKBKG,ARL6IP4,Reconstituted Complex
+IKBKG,PDCL,Reconstituted Complex
+IKBKG,PFDN5,Reconstituted Complex
+IKBKG,LPXN,Reconstituted Complex
+IKBKG,NTMT1,Reconstituted Complex
+IKBKG,GADD45G,Reconstituted Complex
+IKBKG,LUC7L2,Reconstituted Complex
+IKBKG,GADD45GIP1,Reconstituted Complex
+IKBKG,PHF7,Reconstituted Complex
+IKBKG,SCLT1,Reconstituted Complex
+IKBKG,NAP1L5,Reconstituted Complex
+IKBKG,TRIM41,Reconstituted Complex
+IKBKG,APRT,Reconstituted Complex
+IKBKG,KRT8,Reconstituted Complex
+IKBKG,C19orf57,Reconstituted Complex
+IKBKG,NECAB3,Reconstituted Complex
+IKBKG,MCM10,Reconstituted Complex
+IKBKG,RPAP3,Reconstituted Complex
+IKBKG,RBM34,Reconstituted Complex
+IKBKG,NHP2,Reconstituted Complex
+IKBKG,EIF1AX,Reconstituted Complex
+IKBKG,DDX19B,Reconstituted Complex
+IKBKG,RBM8A,Reconstituted Complex
+IKBKG,RPS12,Reconstituted Complex
+IKBKG,RPL41,Reconstituted Complex
+IKBKG,GEMIN2,Reconstituted Complex
+IKBKG,MLLT6,Reconstituted Complex
+IKBKG,TCEANC,Reconstituted Complex
+IKBKG,TCP10L,Reconstituted Complex
+IKBKG,TCP11L1,Reconstituted Complex
+IKBKG,LMCD1,Reconstituted Complex
+IKBKG,NRBF2,Reconstituted Complex
+IKBKG,MZT2A,Reconstituted Complex
+IKBKG,TSLP,Reconstituted Complex
+IKBKG,DNAJC8,Reconstituted Complex
+IKBKG,FRMD8,Reconstituted Complex
+IKBKG,C19orf12,Reconstituted Complex
+IKBKG,TCP11,Reconstituted Complex
+IKBKG,HBZ,Reconstituted Complex
+IKBKG,TMA16,Reconstituted Complex
+IKBKG,VAMP3,Reconstituted Complex
+IKBKG,KIR3DX1,Reconstituted Complex
+IKBKG,ARGLU1,Reconstituted Complex
+IKBKG,GYG2,Reconstituted Complex
+IKBKG,PNMAL1,Reconstituted Complex
+IKBKG,LGALS2,Reconstituted Complex
+IKBKG,ODAM,Reconstituted Complex
+IKBKG,AMMECR1L,Reconstituted Complex
+IKBKG,PLEKHJ1,Reconstituted Complex
+IKBKG,AVPI1,Reconstituted Complex
+IKBKG,SENP2,Reconstituted Complex
+IKBKG,ACBD6,Reconstituted Complex
+IKBKG,KIAA1598,Reconstituted Complex
+IKBKG,NRARP,Reconstituted Complex
+IKBKG,ARPP19,Reconstituted Complex
+IKBKG,IKBKB,Affinity Capture-Western
+IKBKG,CALB1,Affinity Capture-Western
+IKBKG,CDK2,Affinity Capture-Western
+IKBKG,RNF7,Affinity Capture-Western
+IKBKG,SENP2,Affinity Capture-Western
+IKBKG,SYT1,Affinity Capture-Western
+IKBKG,IKBKB,Two-hybrid
+IKBKG,CALB1,Two-hybrid
+IKBKG,CDK2,Two-hybrid
+IKBKG,RNF7,Two-hybrid
+IKBKG,SENP2,Two-hybrid
+IKBKG,SYT1,Two-hybrid
+WRN,EXO1,Affinity Capture-Western
+RUNX2,HDAC4,Affinity Capture-Western
+RUNX2,HDAC5,Affinity Capture-Western
+KAT2B,RUNX2,Affinity Capture-Western
+PCNA,POLK,Affinity Capture-Western
+POLK,RAD18,Affinity Capture-Western
+HIF1A,VHL,Affinity Capture-Western
+VHL,CUL2,Affinity Capture-Western
+UBE2D1,XIAP,Two-hybrid
+UBE2D2,XIAP,Two-hybrid
+UBE2D3,XIAP,Two-hybrid
+UBE2D4,XIAP,Two-hybrid
+UBE2N,XIAP,Two-hybrid
+UBE2N,TRAF6,Two-hybrid
+UBE2A,RAD18,Two-hybrid
+UBE2B,RAD18,Two-hybrid
+UBE2D1,RNF125,Two-hybrid
+UBE2D2,RNF125,Two-hybrid
+UBE2D4,RNF125,Two-hybrid
+UBE2L3,RNF125,Two-hybrid
+UBE2L6,RNF125,Two-hybrid
+UBE2K,RNF125,Two-hybrid
+UBE2D4,RNF138,Two-hybrid
+UBE2K,RNF138,Two-hybrid
+UBE2K,BFAR,Two-hybrid
+UBE2D1,RNF126,Two-hybrid
+UBE2D2,RNF126,Two-hybrid
+UBE2D3,RNF126,Two-hybrid
+UBE2D4,RNF126,Two-hybrid
+TSG101,RNF126,Two-hybrid
+UEVLD,RNF4,Two-hybrid
+UBE2L6,TRAF7,Two-hybrid
+UBE2D1,UBOX5,Two-hybrid
+UBE2D2,UBOX5,Two-hybrid
+UBE2D3,UBOX5,Two-hybrid
+UBE2D4,UBOX5,Two-hybrid
+UBE2H,UBOX5,Two-hybrid
+UBE2L3,UBOX5,Two-hybrid
+UBE2V1,UBOX5,Two-hybrid
+UBE2K,UBOX5,Two-hybrid
+UBE2W,UBOX5,Two-hybrid
+UBE2D1,RNF5,Two-hybrid
+UBE2D2,RNF5,Two-hybrid
+UBE2D3,RNF5,Two-hybrid
+UBE2D4,RNF5,Two-hybrid
+UBE2E1,RNF5,Two-hybrid
+UBE2E3,RNF5,Two-hybrid
+UBE2K,RNF5,Two-hybrid
+UBE2E2,RNF5,Two-hybrid
+TSG101,TRAIP,Two-hybrid
+UBE2D2,RING1,Two-hybrid
+TSG101,RNF41,Two-hybrid
+UBE2D1,DTX3,Two-hybrid
+UBE2D2,DTX3,Two-hybrid
+UBE2D3,DTX3,Two-hybrid
+UBE2D4,DTX3,Two-hybrid
+UBE2L6,DTX3,Two-hybrid
+UBE2K,DTX3,Two-hybrid
+UBE2D1,RNF14,Two-hybrid
+UBE2D2,RNF14,Two-hybrid
+UBE2D3,RNF14,Two-hybrid
+UBE2D4,RNF14,Two-hybrid
+UBE2E1,RNF14,Two-hybrid
+UBE2V1,RNF14,Two-hybrid
+UBE2W,RNF14,Two-hybrid
+UBE2E2,RNF14,Two-hybrid
+UBE2D1,ZNRF1,Two-hybrid
+UBE2D2,ZNRF1,Two-hybrid
+UBE2D3,ZNRF1,Two-hybrid
+UBE2D4,ZNRF1,Two-hybrid
+UBE2E1,ZNRF1,Two-hybrid
+UBE2E3,ZNRF1,Two-hybrid
+UBE2N,ZNRF1,Two-hybrid
+UBE2V1,ZNRF1,Two-hybrid
+UBE2W,ZNRF1,Two-hybrid
+UBE2E2,ZNRF1,Two-hybrid
+UBE2K,7-Mar,Two-hybrid
+UBE2D1,RNF114,Two-hybrid
+UBE2D2,RNF114,Two-hybrid
+UBE2D3,RNF114,Two-hybrid
+UBE2D4,RNF114,Two-hybrid
+UBE2E3,RNF114,Two-hybrid
+UBE2E2,RNF114,Two-hybrid
+UEVLD,RNF114,Two-hybrid
+UBE2DNL,RNF114,Two-hybrid
+TSG101,LRSAM1,Two-hybrid
+UBE2D1,RNF11,Two-hybrid
+UBE2D2,RNF11,Two-hybrid
+UBE2D3,RNF11,Two-hybrid
+UBE2D4,RNF11,Two-hybrid
+UBE2E3,RNF11,Two-hybrid
+UBE2N,RNF11,Two-hybrid
+UBE2E2,RNF11,Two-hybrid
+UBE2D1,TRIM8,Two-hybrid
+UBE2D2,TRIM8,Two-hybrid
+UBE2D3,TRIM8,Two-hybrid
+UBE2D4,TRIM8,Two-hybrid
+UBE2V1,TRIM8,Two-hybrid
+UBE2W,TRIM8,Two-hybrid
+UBE2W,AMFR,Two-hybrid
+UBE2N,SIAH1,Two-hybrid
+UBE2K,SIAH1,Two-hybrid
+UBE2L3,ARIH2,Two-hybrid
+UBE2L6,ARIH2,Two-hybrid
+UBE2E2,ARIH2,Two-hybrid
+UBE2T,ARIH2,Two-hybrid
+UBE2D1,DTX3L,Two-hybrid
+UBE2D2,DTX3L,Two-hybrid
+UBE2D3,DTX3L,Two-hybrid
+UBE2D4,DTX3L,Two-hybrid
+UBE2E1,DTX3L,Two-hybrid
+UBE2E3,DTX3L,Two-hybrid
+UBE2W,DTX3L,Two-hybrid
+UBE2E2,DTX3L,Two-hybrid
+UBE2D1,DZIP3,Two-hybrid
+UBE2D2,DZIP3,Two-hybrid
+UBE2D3,DZIP3,Two-hybrid
+UBE2D4,DZIP3,Two-hybrid
+UBE2E3,DZIP3,Two-hybrid
+UBE2H,DZIP3,Two-hybrid
+UBE2N,DZIP3,Two-hybrid
+UBE2W,DZIP3,Two-hybrid
+UBE2E2,DZIP3,Two-hybrid
+AKTIP,DZIP3,Two-hybrid
+TSG101,DZIP3,Two-hybrid
+UBE2L3,RNF144B,Two-hybrid
+UBE2L6,RNF144B,Two-hybrid
+UBE2Z,LNX2,Two-hybrid
+TSG101,MGRN1,Two-hybrid
+UBE2D1,MID1,Two-hybrid
+UBE2D2,MID1,Two-hybrid
+UBE2D3,MID1,Two-hybrid
+UBE2D4,MID1,Two-hybrid
+UBE2N,MID1,Two-hybrid
+UBE2V1,MID1,Two-hybrid
+UBE2W,MID1,Two-hybrid
+UBE2D1,MKRN3,Two-hybrid
+UBE2D2,MKRN3,Two-hybrid
+UBE2D3,MKRN3,Two-hybrid
+UBE2N,MKRN3,Two-hybrid
+TSG101,MKRN3,Two-hybrid
+UBE2N,RC3H2,Two-hybrid
+UBE2E2,TRIM23,Two-hybrid
+UBE2U,TRIM23,Two-hybrid
+TSG101,TRIM23,Two-hybrid
+UBE2D1,TRIM39,Two-hybrid
+UBE2D2,TRIM39,Two-hybrid
+UBE2D3,TRIM39,Two-hybrid
+UBE2D4,TRIM39,Two-hybrid
+UBE2E1,TRIM39,Two-hybrid
+UBE2E3,TRIM39,Two-hybrid
+UBE2E2,TRIM39,Two-hybrid
+UBE2H,RNF34,Two-hybrid
+UBE2D1,TRIM27,Two-hybrid
+UBE2D2,TRIM27,Two-hybrid
+UBE2D3,TRIM27,Two-hybrid
+UBE2H,TRIM27,Two-hybrid
+UBE2K,TRIM27,Two-hybrid
+UBE2T,TRIM27,Two-hybrid
+UBE2D2,RFWD3,Two-hybrid
+UBE2D3,RFWD3,Two-hybrid
+UBE2D1,RNF10,Two-hybrid
+UBE2D2,RNF10,Two-hybrid
+UBE2D3,RNF10,Two-hybrid
+UBE2D4,RNF10,Two-hybrid
+UBE2E1,RNF10,Two-hybrid
+UBE2E3,RNF10,Two-hybrid
+UBE2I,RNF10,Two-hybrid
+UBE2O,RNF10,Two-hybrid
+UBE2D1,RNF111,Two-hybrid
+UBE2D2,RNF111,Two-hybrid
+UBE2D3,RNF111,Two-hybrid
+UBE2D4,RNF111,Two-hybrid
+UBE2I,RNF111,Two-hybrid
+UBE2L3,RNF113B,Two-hybrid
+UBE2R2,RNF113B,Two-hybrid
+UBE2L3,RNF144A,Two-hybrid
+UBE2L6,RNF144A,Two-hybrid
+UBE2D1,RNF166,Two-hybrid
+UBE2D2,RNF166,Two-hybrid
+UBE2D3,RNF166,Two-hybrid
+UBE2D4,RNF166,Two-hybrid
+UBE2E1,RNF166,Two-hybrid
+UBE2W,RNF166,Two-hybrid
+UBE2D1,RNF185,Two-hybrid
+UBE2D2,RNF185,Two-hybrid
+UBE2D3,RNF185,Two-hybrid
+UBE2D4,RNF185,Two-hybrid
+UBE2E3,RNF185,Two-hybrid
+UBE2K,RNF185,Two-hybrid
+UBE2E2,RNF185,Two-hybrid
+UBE2D1,RNF2,Two-hybrid
+UBE2D2,RNF2,Two-hybrid
+UBE2D3,RNF2,Two-hybrid
+UBE2D4,RNF2,Two-hybrid
+UBE2E1,RNF2,Two-hybrid
+UBE2E3,RNF2,Two-hybrid
+UBE2K,RNF2,Two-hybrid
+UBE2E2,RNF2,Two-hybrid
+UBE2D1,RNF25,Two-hybrid
+UBE2D2,RNF25,Two-hybrid
+UBE2D3,RNF25,Two-hybrid
+UBE2D4,RNF25,Two-hybrid
+UBE2E1,RNF25,Two-hybrid
+UBE2E3,RNF25,Two-hybrid
+UBE2E2,RNF25,Two-hybrid
+UBE2Q1,RNF7,Two-hybrid
+UBE2N,RNF8,Two-hybrid
+UBE2W,RNF8,Two-hybrid
+UBE2U,TRIM74,Two-hybrid
+TSG101,TRIM74,Two-hybrid
+UBE2W,TRIM17,Two-hybrid
+UBE2N,TRIM32,Two-hybrid
+UBE2K,TRIM35,Two-hybrid
+UBE2W,TRIM35,Two-hybrid
+TSG101,TRIM35,Two-hybrid
+UBE2D1,TRIM43,Two-hybrid
+UBE2D2,TRIM43,Two-hybrid
+UBE2D3,TRIM43,Two-hybrid
+UBE2D4,TRIM43,Two-hybrid
+UBE2G1,RBCK1,Two-hybrid
+UBE2L3,RBCK1,Two-hybrid
+UBE2L6,RBCK1,Two-hybrid
+UBE2N,RBCK1,Two-hybrid
+UBE2U,RBCK1,Two-hybrid
+UBE2U,VPS11,Two-hybrid
+TSG101,VPS11,Two-hybrid
+UBE2V1,XIAP,Two-hybrid
+UBE2V2,XIAP,Two-hybrid
+UBE2J2,XIAP,Two-hybrid
+UBE2W,XIAP,Two-hybrid
+UBE2E2,XIAP,Two-hybrid
+UBE2K,BIRC7,Two-hybrid
+UBE2D1,TRAF6,Two-hybrid
+UBE2D2,TRAF6,Two-hybrid
+UBE2D3,TRAF6,Two-hybrid
+UBE2D4,TRAF6,Two-hybrid
+UEVLD,TRAF6,Two-hybrid
+UBE2I,RAD18,Two-hybrid
+TSG101,RAD18,Two-hybrid
+UBE2D1,BIRC8,Two-hybrid
+UBE2D2,BIRC8,Two-hybrid
+UBE2D3,BIRC8,Two-hybrid
+UBE2D4,BIRC8,Two-hybrid
+UBE2E1,BIRC8,Two-hybrid
+UBE2N,BIRC8,Two-hybrid
+UBE2V1,BIRC8,Two-hybrid
+UBE2K,BIRC8,Two-hybrid
+UBE2W,BIRC8,Two-hybrid
+UBE2D3,RNF125,Two-hybrid
+UBE2N,RNF125,Two-hybrid
+UBE2W,RNF125,Two-hybrid
+UBE2E2,RNF125,Two-hybrid
+UBE2U,RNF125,Two-hybrid
+UBE2D2,RNF138,Two-hybrid
+UBE2W,RNF138,Two-hybrid
+UBE2D1,BFAR,Two-hybrid
+UBE2D2,BFAR,Two-hybrid
+UBE2D3,BFAR,Two-hybrid
+UBE2D4,BFAR,Two-hybrid
+UBE2W,BFAR,Two-hybrid
+UBE2D4,RCHY1,Two-hybrid
+UBE2D1,RNF4,Two-hybrid
+UBE2D2,RNF4,Two-hybrid
+UBE2D3,RNF4,Two-hybrid
+UBE2D4,RNF4,Two-hybrid
+UBE2E1,RNF4,Two-hybrid
+UBE2E3,RNF4,Two-hybrid
+UBE2H,RNF4,Two-hybrid
+UBE2I,RNF4,Two-hybrid
+UBE2K,RNF4,Two-hybrid
+UBE2W,RNF4,Two-hybrid
+UBE2E2,RNF4,Two-hybrid
+UBE2L6,LONRF1,Two-hybrid
+UBE2K,TRIM34,Two-hybrid
+UBE2K,RNF167,Two-hybrid
+UBE2K,UHRF2,Two-hybrid
+UBE2D1,TRAF7,Two-hybrid
+UBE2D2,TRAF7,Two-hybrid
+UBE2D4,TRAF7,Two-hybrid
+UBE2L3,TRAF7,Two-hybrid
+UBE2K,TRAF7,Two-hybrid
+UBE2K,MKRN2,Two-hybrid
+UBE2E1,UBOX5,Two-hybrid
+UBE2E2,UBOX5,Two-hybrid
+UBE2V1,RNF5,Two-hybrid
+UBE2W,RNF5,Two-hybrid
+UBE2Z,RNF5,Two-hybrid
+UBE2H,TRAIP,Two-hybrid
+UBE2K,TRAIP,Two-hybrid
+UBE2Z,TRAIP,Two-hybrid
+UBE2D1,RING1,Two-hybrid
+UBE2D3,RING1,Two-hybrid
+UBE2D4,RING1,Two-hybrid
+UBE2E1,RING1,Two-hybrid
+UBE2E3,RING1,Two-hybrid
+UBE2K,RING1,Two-hybrid
+UBE2E2,RING1,Two-hybrid
+UBE2H,TRIM36,Two-hybrid
+UBE2K,RNF41,Two-hybrid
+UBE2D2,3-Mar,Two-hybrid
+UBE2D3,3-Mar,Two-hybrid
+UBE2D4,3-Mar,Two-hybrid
+UBE2E1,3-Mar,Two-hybrid
+UBE2K,3-Mar,Two-hybrid
+UBE2W,3-Mar,Two-hybrid
+UBE2E2,3-Mar,Two-hybrid
+UBE2D2,RSPRY1,Two-hybrid
+UBE2D3,RSPRY1,Two-hybrid
+UBE2E1,DTX3,Two-hybrid
+UBE2E3,DTX3,Two-hybrid
+UBE2H,DTX3,Two-hybrid
+UBE2L3,DTX3,Two-hybrid
+UBE2V1,DTX3,Two-hybrid
+UBE2W,DTX3,Two-hybrid
+UBE2E2,DTX3,Two-hybrid
+UEVLD,DTX3,Two-hybrid
+UBE2DNL,DTX3,Two-hybrid
+UBE2D1,RLIM,Two-hybrid
+UBE2D2,RLIM,Two-hybrid
+UBE2D3,RLIM,Two-hybrid
+UBE2D4,RLIM,Two-hybrid
+UBE2E1,RLIM,Two-hybrid
+UBE2E2,RLIM,Two-hybrid
+UBE2E3,RNF14,Two-hybrid
+UBE2V2,ZNRF1,Two-hybrid
+UBE2N,7-Mar,Two-hybrid
+UBE2A,UBR3,Two-hybrid
+UBE2B,UBR3,Two-hybrid
+UBE2K,RNF32,Two-hybrid
+UBE2E1,RNF114,Two-hybrid
+UBE2H,RNF114,Two-hybrid
+UBE2K,RNF114,Two-hybrid
+UBE2W,RNF114,Two-hybrid
+UBE2H,BRAP,Two-hybrid
+UBE2D1,LRSAM1,Two-hybrid
+UBE2D2,LRSAM1,Two-hybrid
+UBE2D3,LRSAM1,Two-hybrid
+UBE2D4,LRSAM1,Two-hybrid
+UBE2E1,LRSAM1,Two-hybrid
+UBE2H,LRSAM1,Two-hybrid
+UBE2N,LRSAM1,Two-hybrid
+UBE2K,LRSAM1,Two-hybrid
+UBE2W,LRSAM1,Two-hybrid
+UEVLD,LRSAM1,Two-hybrid
+UBE2E1,RNF11,Two-hybrid
+UBE2L6,TRIM8,Two-hybrid
+UBE2D1,AMFR,Two-hybrid
+UBE2D2,AMFR,Two-hybrid
+UBE2D3,AMFR,Two-hybrid
+UBE2D4,AMFR,Two-hybrid
+UBE2N,AMFR,Two-hybrid
+UBE2D1,SIAH1,Two-hybrid
+UBE2D2,SIAH1,Two-hybrid
+UBE2D3,SIAH1,Two-hybrid
+UBE2V2,SIAH1,Two-hybrid
+UBE2D1,CHFR,Two-hybrid
+UBE2D2,CHFR,Two-hybrid
+UBE2D3,CHFR,Two-hybrid
+UBE2D4,CHFR,Two-hybrid
+UBE2E1,CHFR,Two-hybrid
+UBE2E3,CHFR,Two-hybrid
+UBE2N,CHFR,Two-hybrid
+UBE2W,CHFR,Two-hybrid
+UBE2E2,CHFR,Two-hybrid
+UBE2D1,ARIH2,Two-hybrid
+UBE2D2,ARIH2,Two-hybrid
+UBE2D3,ARIH2,Two-hybrid
+UBE2D4,ARIH2,Two-hybrid
+UBE2E1,ARIH2,Two-hybrid
+UBE2E3,ARIH2,Two-hybrid
+UBE2V1,ARIH2,Two-hybrid
+UBE2R2,ARIH2,Two-hybrid
+UBE2H,CBLC,Two-hybrid
+UBE2I,CBLC,Two-hybrid
+UBE2L3,CBLC,Two-hybrid
+UBE2L6,CBLC,Two-hybrid
+UBE2K,CBLC,Two-hybrid
+UBE2R2,CBLC,Two-hybrid
+UBE2H,DTX3L,Two-hybrid
+UBE2I,DTX3L,Two-hybrid
+UBE2K,DTX3L,Two-hybrid
+UBE2R2,DTX3L,Two-hybrid
+UBE2E1,DZIP3,Two-hybrid
+UBE2I,DZIP3,Two-hybrid
+UBE2V1,DZIP3,Two-hybrid
+UBE2V2,DZIP3,Two-hybrid
+UBE2K,DZIP3,Two-hybrid
+UBE2R2,DZIP3,Two-hybrid
+UBE2Z,DZIP3,Two-hybrid
+UBE2U,DZIP3,Two-hybrid
+UBE2I,RNF144B,Two-hybrid
+UBE2T,RNF144B,Two-hybrid
+UBE2U,RNF144B,Two-hybrid
+UBE2I,LNX2,Two-hybrid
+UBE2T,LNX2,Two-hybrid
+UBE2I,5-Mar,Two-hybrid
+UBE2N,5-Mar,Two-hybrid
+UBE2W,5-Mar,Two-hybrid
+AKTIP,5-Mar,Two-hybrid
+UBE2T,5-Mar,Two-hybrid
+UBE2D1,MGRN1,Two-hybrid
+UBE2D2,MGRN1,Two-hybrid
+UBE2D3,MGRN1,Two-hybrid
+UBE2D4,MGRN1,Two-hybrid
+UBE2E1,MGRN1,Two-hybrid
+UBE2I,MGRN1,Two-hybrid
+UBE2J2,MGRN1,Two-hybrid
+UBE2W,MGRN1,Two-hybrid
+UBE2T,MGRN1,Two-hybrid

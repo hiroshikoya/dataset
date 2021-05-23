@@ -1,0 +1,500 @@
+EIF3A,EIF3I,Co-purification
+EIF3A,EIF3J,Co-purification
+EIF3A,EIF3C,Co-purification
+EIF3A,EIF3D,Co-purification
+EIF3A,EIF3F,Co-purification
+EIF3A,EIF3H,Co-purification
+EIF3K,EIF3J,Reconstituted Complex
+EIF3K,EIF3G,Reconstituted Complex
+EIF3K,EIF3C,Reconstituted Complex
+PNN,RNPS1,Reconstituted Complex
+EIF2AK3,NFE2L2,Biochemical Activity
+KEAP1,NFE2L2,Reconstituted Complex
+MAP7,TRPV4,Reconstituted Complex
+TRPV4,MAP7,Affinity Capture-Western
+TRPV4,MAP7,Two-hybrid
+PFN2,ROCK1,Affinity Capture-Western
+ROCK1,PFN2,Affinity Capture-Western
+TOPORS,SUMO1,Two-hybrid
+TCF12,ASCL4,Two-hybrid
+TCF12,TCF23,Two-hybrid
+TCF12,OLIG3,Two-hybrid
+ARHGEF18,GNB1,Affinity Capture-Western
+TJP2,OCLN,Reconstituted Complex
+OCLN,TJP2,Affinity Capture-Western
+LHCGR,GIPC1,Two-hybrid
+GIPC1,LHCGR,Reconstituted Complex
+LHCGR,GIPC1,Affinity Capture-Western
+PML,MDM2,Affinity Capture-Western
+PML,MDM2,Reconstituted Complex
+MIB2,ACTA1,Two-hybrid
+MIB2,ACTA1,Reconstituted Complex
+MORF4L2,RB1,Reconstituted Complex
+MORF4L2,MRFAP1,Reconstituted Complex
+MORF4L2,HDAC9,Affinity Capture-Western
+DNMBP,DNM1,Affinity Capture-Western
+DNMBP,DNM1,Reconstituted Complex
+DNMBP,CYFIP2,Affinity Capture-MS
+DNMBP,WASF1,Affinity Capture-MS
+DNMBP,HSPA4,Affinity Capture-MS
+DNMBP,WASL,Affinity Capture-MS
+DNMBP,WIPF2,Affinity Capture-MS
+DNMBP,DBN1,Affinity Capture-MS
+DNMBP,ACTA1,Affinity Capture-MS
+DNMBP,TUBA1A,Affinity Capture-MS
+DNMBP,WIPF3,Affinity Capture-MS
+DNMBP,VASP,Reconstituted Complex
+DNMBP,EVL,Reconstituted Complex
+DNMBP,ENAH,Reconstituted Complex
+DNMBP,NCKAP1,Affinity Capture-MS
+PHOX2A,HAND2,Reconstituted Complex
+PHOX2A,JUN,Reconstituted Complex
+HAND2,PHOX2A,Affinity Capture-Western
+HOMER1,TRPC1,Affinity Capture-Western
+HOMER1,TRPC2,Affinity Capture-Western
+HOMER1,TRPC5,Affinity Capture-Western
+HOMER3,TRPC1,Affinity Capture-Western
+HOMER3,TRPC4,Affinity Capture-Western
+HOMER3,TRPC5,Affinity Capture-Western
+ITPR1,TRPC1,Affinity Capture-Western
+ITPR1,TRPC2,Affinity Capture-Western
+ITPR1,TRPC3,Affinity Capture-Western
+ITPR1,TRPC4,Affinity Capture-Western
+ITPR1,TRPC5,Affinity Capture-Western
+ITPR1,TRPC6,Affinity Capture-Western
+HOMER3,TRPC1,Reconstituted Complex
+AKT2,SH3RF1,Two-hybrid
+SH3RF1,AKT2,Reconstituted Complex
+SH3RF1,MAP3K11,Reconstituted Complex
+SH3RF1,MAP3K11,Affinity Capture-Western
+CETN2,SFI1,Reconstituted Complex
+CTSB,CSTA,Reconstituted Complex
+CTSB,CSTB,Reconstituted Complex
+CTSB,CST3,Reconstituted Complex
+HSPA4,TTC1,Reconstituted Complex
+HSPA4,HSPBP1,Reconstituted Complex
+HSPA4,DNAJB1,Reconstituted Complex
+HSPA4,DNAJB1,Affinity Capture-Western
+HSPA4,HSPBP1,Affinity Capture-Western
+HSPA4,TTC1,Affinity Capture-Western
+RAD17,POLE,Affinity Capture-Western
+RAD17,POLE2,Affinity Capture-Western
+RAD17,POLE3,Affinity Capture-Western
+RAD17,POLE4,Affinity Capture-Western
+RAD17,POLE,Reconstituted Complex
+P4HA3,PDIA2,Affinity Capture-Western
+PDIA2,P4HA3,Affinity Capture-Western
+PHB,E2F1,Co-localization
+PHB,TP53,Co-localization
+TP53,PHB,Affinity Capture-Western
+E2F1,PHB,Affinity Capture-Western
+TP53,PHB,Reconstituted Complex
+DYRK1B,RANBP9,Reconstituted Complex
+RANBP9,DYRK1B,Affinity Capture-Western
+DYRK1B,RANBP9,Two-hybrid
+DRD3,CLIC6,Two-hybrid
+DRD3,MPDZ,Two-hybrid
+DRD3,GIPC1,Two-hybrid
+DRD3,RDX,Two-hybrid
+DRD2,CLIC6,Two-hybrid
+DRD4,CLIC6,Two-hybrid
+DRD3,CLIC6,Reconstituted Complex
+CANX,APOB,Affinity Capture-Western
+CADM1,MPP3,Affinity Capture-Western
+CADM1,MPP3,Reconstituted Complex
+CXCL1,ACKR1,Reconstituted Complex
+CCL2,ACKR1,Reconstituted Complex
+STAM2,USP8,Protein-peptide
+HOPX,HDAC2,Affinity Capture-Western
+MAP2K1,KSR2,Affinity Capture-Western
+MAP3K8,KSR2,Affinity Capture-Western
+KSR2,MAP3K8,Affinity Capture-Western
+TAB1,MAP3K7,Affinity Capture-Western
+XRCC2,BLM,Affinity Capture-Western
+CNTN2,CNTNAP2,Affinity Capture-Western
+CNTNAP2,CNTN2,Affinity Capture-Western
+LSM11,ZNF473,Reconstituted Complex
+ARL1,GOLGA1,Two-hybrid
+ARL1,GCC1,Two-hybrid
+ARL1,GCC2,Two-hybrid
+ARL1,ARFIP2,Two-hybrid
+ARL1,GOLGA4,Two-hybrid
+ARL1,GOLGA1,Reconstituted Complex
+ARL1,GOLGA4,Reconstituted Complex
+ARL1,GOLGA4,Affinity Capture-Western
+SPDYA,Cdkn1b,Two-hybrid
+SPDYA,Cdkn1b,Affinity Capture-Western
+SPDYA,CDKN1B,Reconstituted Complex
+CDKN1B,SPDYA,Reconstituted Complex
+CDKN1B,SPDYA,Affinity Capture-Western
+CDK2,SPDYA,Affinity Capture-Western
+CDK2,CDKN1B,Affinity Capture-Western
+RAB5A,RIN3,Two-hybrid
+RIN3,RAB5B,Reconstituted Complex
+BIN1,RIN3,Reconstituted Complex
+BIN1,RIN3,Affinity Capture-Western
+APP,CLSTN1,Affinity Capture-Western
+APP,APBA2,Affinity Capture-Western
+APBA2,APP,Affinity Capture-Western
+APBA2,CLSTN1,Affinity Capture-Western
+SPINK7,MT2A,Two-hybrid
+SPINK7,MT1H,Two-hybrid
+SPINK7,MT1G,Two-hybrid
+SPINK7,EPB42,Two-hybrid
+SPINK7,MRPS12,Two-hybrid
+SPINK7,RABL6,Two-hybrid
+KCNA5,DLG1,Affinity Capture-Western
+RAD23A,PSMD4,Reconstituted Complex
+SYT9,TUBB,Reconstituted Complex
+SYT9,TUBB,Affinity Capture-Western
+LIMK1,BMPR2,Affinity Capture-Western
+LIMK1,CFL1,Biochemical Activity
+STXBP1,CDK5,Affinity Capture-Western
+STXBP1,MAPT,Affinity Capture-Western
+STXBP1,TUBB2A,Affinity Capture-Western
+STXBP1,TUBA4A,Affinity Capture-Western
+STXBP1,STX1A,Affinity Capture-Western
+IGFBP3,Ltbp1,Two-hybrid
+IGFBP3,Igf2,Two-hybrid
+DNTT,PRPF19,Affinity Capture-MS
+PRPF19,DNTT,Affinity Capture-Western
+PLCG1,SELE,Affinity Capture-Western
+CD200,CD200R1,Reconstituted Complex
+GNB2L1,TYK2,Affinity Capture-Western
+GNB2L1,JAK1,Affinity Capture-Western
+GNB2L1,STAT1,Affinity Capture-Western
+GNB2L1,IL4R,Reconstituted Complex
+GNB2L1,IL2RB,Reconstituted Complex
+GNB2L1,IFNR,Reconstituted Complex
+GNB2L1,EPOR,Reconstituted Complex
+GNB2L1,TYK2,Reconstituted Complex
+GNB2L1,JAK1,Reconstituted Complex
+TYK2,STAT1,Biochemical Activity
+PRTN3,ITGAM,Affinity Capture-Western
+AR,GNB2L1,Affinity Capture-Western
+AR,GNB2L1,Reconstituted Complex
+ESR1,XBP1,Reconstituted Complex
+XBP1,ESR1,Affinity Capture-Western
+SHANK1,DLGAP1,Co-crystal Structure
+SHANK1,SHANK1,Co-crystal Structure
+PIM2,BAD,Biochemical Activity
+SLC9A3R2,PIK3CA,Reconstituted Complex
+SLC9A3R1,PIK3CA,Reconstituted Complex
+PARD3,F11R,Reconstituted Complex
+PARD3,JAM2,Reconstituted Complex
+PARD3,JAM3,Reconstituted Complex
+JAM2,PARD3,Affinity Capture-Western
+JAM3,PARD3,Affinity Capture-Western
+TJP1,F11R,Reconstituted Complex
+TJP1,JAM2,Reconstituted Complex
+TJP1,JAM3,Reconstituted Complex
+SNX9,DNM2,Affinity Capture-MS
+SNX9,CLTC,Affinity Capture-MS
+SNX9,DNM2,Affinity Capture-Western
+DNM2,SNX9,Affinity Capture-Western
+NIF3L1,NIF3L1,Two-hybrid
+BRCA1,BARD1,Two-hybrid
+MMP9,CXCL5,Biochemical Activity
+MMP9,CXCL6,Biochemical Activity
+APOE,LRP8,Reconstituted Complex
+NFATC2,NFATC2,Co-crystal Structure
+CDYL,HDAC1,Affinity Capture-Western
+CDYL,HDAC2,Affinity Capture-Western
+HDAC1,CDYL,Affinity Capture-Western
+HDAC2,CDYL,Affinity Capture-Western
+CDYL,HDAC1,Reconstituted Complex
+EGR1,CEBPB,Two-hybrid
+EGR1,CEBPB,Reconstituted Complex
+STAT3,MYOD1,Affinity Capture-Western
+MYOD1,STAT3,Affinity Capture-Western
+STAT3,MYOD1,Reconstituted Complex
+MYBL2,CDKN1C,Reconstituted Complex
+MYBL2,CDKN1C,Affinity Capture-Western
+CCNA2,CDKN1C,Affinity Capture-Western
+CCNA2,CDKN1B,Affinity Capture-Western
+CCNA2,CDKN1A,Affinity Capture-Western
+RBL1,MYBL2,Affinity Capture-Western
+RBL1,CDKN1C,Affinity Capture-Western
+MYC,CCNT1,Affinity Capture-Western
+MYC,CDK9,Affinity Capture-Western
+CCNT1,MYC,Reconstituted Complex
+SERPINB2,RB1,Affinity Capture-Western
+SERPINB2,RB1,Reconstituted Complex
+ATXN3,VCP,Affinity Capture-Western
+CCNT1,CDK9,Two-hybrid
+CCNT1,MDFIC,Two-hybrid
+MDFIC,CCNT1,Two-hybrid
+MDFIC,MDFIC,Two-hybrid
+MDFIC,CCNT1,Affinity Capture-Western
+MDFIC,CDK9,Affinity Capture-Western
+MDFIC,CCNT1,Reconstituted Complex
+MDFIC,CDK9,Reconstituted Complex
+C1QTNF5,C1QTNF5,Reconstituted Complex
+RARA,HDAC3,Reconstituted Complex
+RARA,HDAC4,Reconstituted Complex
+RXRA,HDAC3,Reconstituted Complex
+RXRA,HDAC4,Reconstituted Complex
+NR2C1,HDAC3,Reconstituted Complex
+NR2C1,HDAC4,Reconstituted Complex
+NR2C2,HDAC3,Reconstituted Complex
+NR2C2,HDAC4,Reconstituted Complex
+AR,HDAC3,Reconstituted Complex
+AR,HDAC4,Reconstituted Complex
+PPARD,HDAC4,Reconstituted Complex
+PPARD,HDAC3,Reconstituted Complex
+PPARG,HDAC3,Reconstituted Complex
+PPARG,HDAC4,Reconstituted Complex
+IKZF2,HDAC4,Reconstituted Complex
+ZNF354A,HDAC4,Reconstituted Complex
+NR2C1,HDAC3,Two-hybrid
+HDAC1,SIN3A,Affinity Capture-Western
+HDAC2,SIN3A,Affinity Capture-Western
+RBBP4,HDAC1,Affinity Capture-Western
+RBBP4,HDAC2,Affinity Capture-Western
+ESR1,PHB2,Two-hybrid
+PHB2,PTMA,Two-hybrid
+PHB2,PTMA,Affinity Capture-Western
+PTMA,ESR1,Reconstituted Complex
+EED,TGS1,Reconstituted Complex
+DPYSL2,Numb,Affinity Capture-Western
+DPYSL2,AP2A1,Affinity Capture-Western
+NUMB,AP2A1,Affinity Capture-Western
+NUMB,DPYSL2,Affinity Capture-Western
+NUMB,DPYSL2,Reconstituted Complex
+NUMB,AP2A1,Reconstituted Complex
+DPYSL2,AP2A1,Reconstituted Complex
+DPYSL2,NUMB,Reconstituted Complex
+L1CAM,AP2A1,Affinity Capture-Western
+L1CAM,NUMB,Affinity Capture-Western
+NUMB,L1CAM,Affinity Capture-Western
+ABCC8,KCNJ11,Affinity Capture-Western
+AR,GSN,Two-hybrid
+ROBO4,SLIT2,Affinity Capture-Western
+TNNC1,TNNI3,Reconstituted Complex
+PRKACA,IQGAP1,Co-purification
+IQGAP1,PRKACA,Affinity Capture-Western
+IQGAP1,AKAP5,Reconstituted Complex
+IGF2R,CREG1,Reconstituted Complex
+POU4F1,RIT2,Two-hybrid
+POU4F1,RIT2,Reconstituted Complex
+CIITA,NCOA1,Affinity Capture-Western
+CIITA,NCOA1,Reconstituted Complex
+OGG1,XRCC1,Reconstituted Complex
+OGG1,XRCC1,Two-hybrid
+GRIN2A,DLG1,Affinity Capture-Western
+CAMK2A,DLG1,Affinity Capture-Western
+CAMK2A,DLG1,Biochemical Activity
+DLG1,GRIN2A,Reconstituted Complex
+DLG1,GRIA1,Reconstituted Complex
+SRC,GRIN2A,Affinity Capture-Western
+FYN,GRIN2A,Affinity Capture-Western
+HLA-DRA,HLA-DMB,Affinity Capture-Western
+CHTF18,HSP90AA1,Affinity Capture-MS
+CHTF18,HSPA4,Affinity Capture-MS
+CHTF18,RFC2,Affinity Capture-MS
+CHTF18,RFC3,Affinity Capture-MS
+CHTF18,RFC4,Affinity Capture-MS
+CHTF18,RFC5,Affinity Capture-MS
+CHTF18,DSCC1,Affinity Capture-MS
+CHTF18,RFC2,Reconstituted Complex
+CHTF18,RFC3,Reconstituted Complex
+CHTF18,RFC4,Reconstituted Complex
+CHTF18,RFC5,Reconstituted Complex
+CHTF18,DSCC1,Reconstituted Complex
+CHTF18,SMC1A,Affinity Capture-Western
+CHTF18,RAD21,Affinity Capture-Western
+PARP1,PCNA,Affinity Capture-Western
+CDKN1A,PARP1,Reconstituted Complex
+CDKN1A,PCNA,Reconstituted Complex
+AIFM1,HSPA1A,Affinity Capture-Western
+HCN1,HCN2,Affinity Capture-Western
+HCN1,HCN3,Affinity Capture-Western
+HCN1,HCN4,Affinity Capture-Western
+HCN4,HCN3,Affinity Capture-Western
+HCN4,HCN2,Affinity Capture-Western
+HCN2,HCN4,Affinity Capture-Western
+SH2D1A,CD84,Affinity Capture-Western
+NIN,NIN,Two-hybrid
+PRKACA,NIN,Biochemical Activity
+AURKA,NIN,Biochemical Activity
+HPSE,HPSE,Affinity Capture-Western
+TTF2,NVL,Two-hybrid
+TTF2,CDC5L,Affinity Capture-Western
+CDC5L,TTF2,Affinity Capture-Western
+SIGIRR,SIGIRR,Affinity Capture-Western
+TRAF6,SIGIRR,Affinity Capture-Western
+IL1R1,SIGIRR,Affinity Capture-Western
+SIGIRR,IRAK1,Affinity Capture-Western
+SIGIRR,TRAF6,Affinity Capture-Western
+TLR4,SIGIRR,Affinity Capture-Western
+GPSM2,GNAI3,Reconstituted Complex
+CDKN1C,SKP2,Affinity Capture-Western
+PARK2,SYT11,Two-hybrid
+PARK2,SYT11,Affinity Capture-Western
+SYT11,PARK2,Reconstituted Complex
+PPP1CA,PHACTR3,Affinity Capture-Western
+PHACTR3,PPP1CA,Far Western
+MSX2,CEBPA,Reconstituted Complex
+UBE2I,RANGAP1,Reconstituted Complex
+SUMO1,RANGAP1,Reconstituted Complex
+SUMO1,UBE2I,Reconstituted Complex
+SUMO1,SAE1,Reconstituted Complex
+SUMO1,UBA2,Reconstituted Complex
+PPFIA4,ERC2,Two-hybrid
+PPFIA1,GIT1,Two-hybrid
+PPFIA4,GIT1,Two-hybrid
+PPFIA2,GIT1,Two-hybrid
+PPFIA2,ERC2,Two-hybrid
+PPFIA3,GIT1,Two-hybrid
+PPFIA3,ERC2,Two-hybrid
+PPFIA4,GIT1,Reconstituted Complex
+PPFIA4,ERC2,Reconstituted Complex
+PPFIA3,GIT1,Reconstituted Complex
+PPFIA3,ERC2,Reconstituted Complex
+PPFIA2,GIT1,Reconstituted Complex
+PPFIA2,ERC2,Reconstituted Complex
+PPFIA1,ERC2,Reconstituted Complex
+PPFIA1,GIT1,Reconstituted Complex
+PPFIA1,ERC2,Affinity Capture-Western
+PPFIA2,ERC2,Affinity Capture-Western
+PPFIA1,GIT1,Affinity Capture-Western
+PPFIA1,GRIP2,Affinity Capture-Western
+ERC2,PPFIA1,Affinity Capture-Western
+ERC2,GIT1,Affinity Capture-Western
+ERC2,GRIP2,Affinity Capture-Western
+IL16,PPP1R12B,Two-hybrid
+IL16,PPP1R12C,Two-hybrid
+PPP1R12B,IL16,Affinity Capture-Western
+IL16,PPP1R12C,Affinity Capture-Western
+IL16,PPP1R12A,Affinity Capture-Western
+IL16,PPP1R12B,Reconstituted Complex
+POU5F1,SOX2,Reconstituted Complex
+CSTA,CTSL,Reconstituted Complex
+NR5A1,ZNF653,Two-hybrid
+NR5A1,ZNF653,Reconstituted Complex
+HDAC1,MTA1,Affinity Capture-MS
+HDAC1,MTA2,Affinity Capture-MS
+HDAC1,HDAC1,Affinity Capture-MS
+HDAC1,HDAC2,Affinity Capture-MS
+HDAC1,CHD4,Affinity Capture-MS
+HDAC1,SIN3A,Affinity Capture-MS
+MTA2,CHD4,Affinity Capture-MS
+MTA2,SIN3A,Affinity Capture-MS
+MTA2,MTA1,Affinity Capture-MS
+MTA2,HDAC1,Affinity Capture-MS
+MTA2,HDAC2,Affinity Capture-MS
+MTA1,CHD4,Affinity Capture-MS
+MTA1,SIN3A,Affinity Capture-MS
+MTA1,MTA2,Affinity Capture-MS
+MTA1,HDAC1,Affinity Capture-MS
+MTA1,HDAC2,Affinity Capture-MS
+HDAC1,CHD4,Affinity Capture-Western
+HDAC1,SIN3A,Affinity Capture-Western
+HDAC1,RBBP4,Affinity Capture-Western
+HDAC1,RBBP7,Affinity Capture-Western
+HDAC1,HDAC2,Affinity Capture-Western
+MTA2,CHD4,Affinity Capture-Western
+MTA2,RBBP4,Affinity Capture-Western
+MTA2,RBBP7,Affinity Capture-Western
+MTA2,HDAC2,Affinity Capture-Western
+MTA1,HDAC1,Affinity Capture-Western
+MTA1,RBBP4,Affinity Capture-Western
+MTA1,RBBP7,Affinity Capture-Western
+MTA1,HDAC2,Affinity Capture-Western
+TP53,MTA1,Reconstituted Complex
+TP53,MTA2,Reconstituted Complex
+FKBP3,MTA2,Reconstituted Complex
+YY1,MTA2,Reconstituted Complex
+IPCEF1,CYTH1,Two-hybrid
+IPCEF1,CYTH3,Two-hybrid
+IPCEF1,CYTH4,Two-hybrid
+CYTH2,IPCEF1,Two-hybrid
+IPCEF1,CYTH1,Reconstituted Complex
+IPCEF1,CYTH2,Reconstituted Complex
+IPCEF1,CYTH3,Reconstituted Complex
+IPCEF1,CYTH4,Reconstituted Complex
+CYTH2,IPCEF1,Affinity Capture-Western
+CAMLG,EGFR,Affinity Capture-Western
+SUV39H1,RUNX1,Affinity Capture-Western
+SUV39H1,RUNX1,Reconstituted Complex
+CCNT1,AHR,Affinity Capture-Western
+AHR,CCNT1,Two-hybrid
+CCNT1,AHR,Reconstituted Complex
+NR3C1,NCOA3,Affinity Capture-Western
+NR3C1,SMARCA4,Affinity Capture-Western
+NR3C1,SMARCC1,Affinity Capture-Western
+NR3C1,SMARCD1,Affinity Capture-Western
+NR3C1,SMARCE1,Affinity Capture-Western
+SMARCD1,SMARCA4,Affinity Capture-Western
+SMARCD1,SMARCC2,Affinity Capture-Western
+SMARCD1,SMARCC1,Affinity Capture-Western
+SMARCD1,NR3C1,Affinity Capture-Western
+SMARCD1,NR3C1,Reconstituted Complex
+SMARCD1,ESR1,Reconstituted Complex
+SMARCD1,NR1H4,Reconstituted Complex
+SMARCD1,PGR,Reconstituted Complex
+DAPK3,DAXX,Affinity Capture-Western
+DAXX,DAPK3,Affinity Capture-Western
+PAWR,DAPK3,Affinity Capture-Western
+DAPK3,PAWR,Two-hybrid
+DAPK3,PAWR,Biochemical Activity
+MDM2,PML,Reconstituted Complex
+MDM2,PML,Affinity Capture-Western
+TP53,PML,Affinity Capture-Western
+TP53,MDM2,Affinity Capture-Western
+TP53,PML,Reconstituted Complex
+TP53,MDM2,Reconstituted Complex
+EPM2A,NFU1,Two-hybrid
+EPM2A,NFU1,Reconstituted Complex
+EPM2A,NFU1,Affinity Capture-Western
+POLR2A,TCEA1,Co-crystal Structure
+IL1A,NDN,Affinity Capture-Western
+CD226,PVR,Reconstituted Complex
+CD226,PVRL2,Reconstituted Complex
+NOTCH1,YY1,Affinity Capture-Western
+YY1,NOTCH1,Affinity Capture-Western
+YY1,NOTCH1,Reconstituted Complex
+PPP2CA,TBCD,Affinity Capture-Western
+ARL2,TBCD,Co-purification
+ARL2,PPP2CA,Co-purification
+ARL2,PPP2CB,Co-purification
+ARL2,PPP2R2C,Co-purification
+ARL2,PPP2R5D,Co-purification
+STAR,NUCB2,Two-hybrid
+STAR,CCHCR1,Two-hybrid
+STAR,CCHCR1,Affinity Capture-Western
+CLDN1,CLDN3,Affinity Capture-Western
+CLDN3,CLDN1,Affinity Capture-Western
+CLDN3,CLDN5,Affinity Capture-Western
+CLDN5,CLDN3,Affinity Capture-Western
+5-Sep,8-Sep,Affinity Capture-Western
+NR1I2,NCOA1,Co-crystal Structure
+NEDD4,CBLB,Reconstituted Complex
+CBLB,NEDD4,Affinity Capture-Western
+NEDD4,CBLB,Affinity Capture-Western
+NEDD4,PMEPA1,Reconstituted Complex
+NEDD4,PMEPA1,Affinity Capture-Western
+DICER1,AGO1,Affinity Capture-Western
+DICER1,AGO3,Affinity Capture-Western
+DICER1,AGO4,Affinity Capture-Western
+DICER1,PIWIL4,Affinity Capture-Western
+DICER1,PIWIL3,Affinity Capture-Western
+DICER1,PIWIL2,Affinity Capture-Western
+RGPD5,TNPO1,Reconstituted Complex
+NOV,ITGAV,Reconstituted Complex
+NOV,FN1,Reconstituted Complex
+CXCL8,SDC1,Reconstituted Complex
+DLG1,BTRC,Reconstituted Complex
+BTRC,DLG1,Affinity Capture-Western
+DLG1,BTRC,Affinity Capture-Western
+SMAD3,NR3C1,Affinity Capture-Western
+SMAD3,NR3C1,Reconstituted Complex
+BNIPL,BNIPL,Two-hybrid
+BNIPL,ARHGAP1,Two-hybrid
+BNIPL,BNIP2,Two-hybrid
+BNIPL,BCL2L1,Two-hybrid
+BNIPL,BNIPL,Affinity Capture-Western
+BNIPL,BCL2,Affinity Capture-Western
+LRPAP1,LRP8,Reconstituted Complex
+LRPAP1,VLDLR,Reconstituted Complex
+RELN,LRP8,Reconstituted Complex
