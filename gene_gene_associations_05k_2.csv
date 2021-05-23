@@ -1,0 +1,501 @@
+OFFICIAL_SYMBOL_A,OFFICIAL_SYMBOL_B,EXPERIMENTAL_SYSTEM
+IFI35,NMI,Two-hybrid
+SYN2,SYN2,Two-hybrid
+PSEN2,KCNIP3,Two-hybrid
+TTF1,PTRF,Two-hybrid
+CDKN1B,NUP50,Two-hybrid
+LIMK1,BMPR2,Two-hybrid
+FXR1,CYFIP2,Two-hybrid
+INPPL1,SORBS1,Two-hybrid
+NCOR2,SPEN,Two-hybrid
+NCOR2,ZBTB16,Two-hybrid
+CDKN1C,LIMK1,Two-hybrid
+UGCG,RTN1,Two-hybrid
+SERPINH1,UBQLN4,Two-hybrid
+NEUROD1,HAP1,Two-hybrid
+HAP1,DCTN1,Two-hybrid
+HAP1,HGS,Two-hybrid
+COPB1,COPG1,Two-hybrid
+COPB1,COPG2,Two-hybrid
+MYO6,DAB2,Two-hybrid
+MYO6,DAB2,Two-hybrid
+DCP1A,SMAD4,Two-hybrid
+BPTF,MAZ,Two-hybrid
+F11R,TJP1,Two-hybrid
+ADAM17,DLG1,Two-hybrid
+DHDDS,NPC2,Two-hybrid
+ARHGEF11,PLXNB1,Two-hybrid
+BOK,BCL2A1,Two-hybrid
+BCL2A1,BAD,Two-hybrid
+LSM6,SNRPD2,Two-hybrid
+LSM7,SNRPD3,Two-hybrid
+LSM3,SNRPD3,Two-hybrid
+LSM8,SNRPD1,Two-hybrid
+PDZK1,ABCC2,Two-hybrid
+CADM1,MPP3,Two-hybrid
+MPP6,THOP1,Two-hybrid
+DUSP10,MAPK8,Two-hybrid
+CSPG4,GRIP2,Two-hybrid
+RAN,RANBP1,Two-hybrid
+CDC6,ORC2,Two-hybrid
+ORC2,DBF4,Two-hybrid
+CDC45,ORC2,Two-hybrid
+TGFB1I1,PTK2B,Two-hybrid
+TGFB1I1,PTK2B,Two-hybrid
+UBQLN1,MTOR,Two-hybrid
+ITGA3,BIN1,Two-hybrid
+BIN1,SNX4,Two-hybrid
+YWHAZ,BCAR1,Two-hybrid
+BMPR1A,SF3B4,Two-hybrid
+PKD1,RGS7,Two-hybrid
+HNRNPD,LSM5,Two-hybrid
+HECW1,DVL1,Two-hybrid
+VPS37A,TSG101,Two-hybrid
+KAT5,ETV6,Two-hybrid
+MYBL2,ZNF622,Two-hybrid
+CACYBP,SKP1,Two-hybrid
+MAD2L1,ESR2,Two-hybrid
+PPARG,NCOA4,Two-hybrid
+BAG1,HSPA8,Two-hybrid
+PPP1R15A,BAG1,Two-hybrid
+GRB10,GIGYF2,Two-hybrid
+PROX1,EP300,Two-hybrid
+ATXN1,UBQLN4,Two-hybrid
+ATXN1,ANP32A,Two-hybrid
+ATXN1,USP7,Two-hybrid
+EZH2,EED,Two-hybrid
+KHDRBS1,RAPSN,Two-hybrid
+CITED2,TFAP2C,Two-hybrid
+RIT1,RALGDS,Two-hybrid
+MRAS,RALGDS,Two-hybrid
+PGR,UBE3A,Two-hybrid
+RAD23A,PSMD4,Two-hybrid
+RAD23B,PSMD4,Two-hybrid
+LSM8,GTF2I,Two-hybrid
+THRB,PSMC5,Two-hybrid
+TRAIP,TRAF1,Two-hybrid
+HIVEP3,TRAF1,Two-hybrid
+XRN1,SMARCD2,Two-hybrid
+RNF7,CUL5,Two-hybrid
+TRIM28,SETDB1,Two-hybrid
+PEX7,PHYH,Two-hybrid
+PEX12,PEX10,Two-hybrid
+PEX12,PEX10,Two-hybrid
+SP3,STK19,Two-hybrid
+MCM6,MCM6,Two-hybrid
+RFXAP,RFX5,Two-hybrid
+HIVEP3,TRAF2,Two-hybrid
+TRAIP,TRAF2,Two-hybrid
+ORC1,CDC7,Two-hybrid
+BCL2L2,BCL2L11,Two-hybrid
+STAP2,PTK6,Two-hybrid
+EXOSC6,PSMB1,Two-hybrid
+DCP2,PSMB1,Two-hybrid
+IL16,PPP1R12A,Two-hybrid
+RING1,CBX4,Two-hybrid
+DOCK8,RAC1,Two-hybrid
+RAC1,RAP1GDS1,Two-hybrid
+RAC1,ARFIP2,Two-hybrid
+RAC2,CUL1,Two-hybrid
+LSM8,TALDO1,Two-hybrid
+TRPV1,SYT9,Two-hybrid
+TACC1,YEATS4,Two-hybrid
+PRMT5,CLNS1A,Two-hybrid
+RFWD2,SIPA1,Two-hybrid
+SIAH1,KIF22,Two-hybrid
+PEG10,SIAH1,Two-hybrid
+SIAH1,CACYBP,Two-hybrid
+PEG10,SIAH2,Two-hybrid
+ATXN7,CRX,Two-hybrid
+NEDD4,UBE2D2,Two-hybrid
+TTF2,DRAP1,Two-hybrid
+ILK,ILKAP,Two-hybrid
+ILK,LIMS1,Two-hybrid
+DNM2,SHANK1,Two-hybrid
+DNM2,SHANK2,Two-hybrid
+BLMH,UBE2I,Two-hybrid
+PPP2R5D,HAND2,Two-hybrid
+HAND2,COPS5,Two-hybrid
+CFTR,GOPC,Two-hybrid
+SLBP,ERI1,Two-hybrid
+SCAMP1,ITSN1,Two-hybrid
+IPCEF1,CYTH2,Two-hybrid
+NRIP1,NR0B1,Two-hybrid
+HEXIM1,CCNT1,Two-hybrid
+RGS4,COPB2,Two-hybrid
+MAP3K3,MAP2K5,Two-hybrid
+SNAP23,SNAPIN,Two-hybrid
+NPAS4,ARNTL,Two-hybrid
+RANBP3,XPO1,Two-hybrid
+GOLGA2,GORASP2,Two-hybrid
+MAGOH,RBM8A,Two-hybrid
+ASIC3,MAGI1,Two-hybrid
+IL1RAP,TOLLIP,Two-hybrid
+FHL2,SFPQ,Two-hybrid
+PPP1R8,EED,Two-hybrid
+UPF2,EIF4A1,Two-hybrid
+PDE6D,RND1,Two-hybrid
+ARHGAP5,RND3,Two-hybrid
+HNRNPAB,TP63,Two-hybrid
+NR1H4,NCOA1,Two-hybrid
+MCM3,MCM5,Two-hybrid
+MCM3,CDC45,Two-hybrid
+MCM3,DBF4,Two-hybrid
+MCM3,ORC5,Two-hybrid
+MCM3,ORC4,Two-hybrid
+MCM5,CDC7,Two-hybrid
+EP300,CITED2,Two-hybrid
+EP300,CITED2,Two-hybrid
+APBA2,CLSTN1,Two-hybrid
+FYB,SKAP1,Two-hybrid
+PRKAB1,PRKAG1,Two-hybrid
+PRKAB1,PRKAG2,Two-hybrid
+PRKAB2,PRKAG1,Two-hybrid
+PRKAB2,PRKAG2,Two-hybrid
+PRKAG1,PRKAG2,Two-hybrid
+RGPD5,TNPO1,Two-hybrid
+DNMT3A,UBE2I,Two-hybrid
+THRB,BRD8,Two-hybrid
+RNF4,PATZ1,Two-hybrid
+TTF2,CDC5L,Two-hybrid
+PPL,KAZN,Two-hybrid
+SAFB,SAFB2,Two-hybrid
+MAPK8IP3,MAPK10,Two-hybrid
+MAPK10,MAPK8IP3,Two-hybrid
+MAPK11,HDAC3,Two-hybrid
+PIAS4,SMAD7,Two-hybrid
+TRIP6,LPAR2,Two-hybrid
+LHX2,CITED2,Two-hybrid
+E2F6,RYBP,Two-hybrid
+POLE2,SAP18,Two-hybrid
+BTG1,PRMT1,Two-hybrid
+BTG1,PRMT1,Two-hybrid
+RNF216,TLR3,Two-hybrid
+RNF216,TLR4,Two-hybrid
+RNF216,TLR5,Two-hybrid
+ENAH,ABI1,Two-hybrid
+SLC31A1,SLC31A1,Two-hybrid
+SRSF7,DUSP11,Two-hybrid
+DUSP11,SRSF9,Two-hybrid
+NEDD9,SMAD3,Two-hybrid
+RNF7,CUL1,Two-hybrid
+SRRM2,PNN,Two-hybrid
+MCL1,BAD,Two-hybrid
+DAXX,MCRS1,Two-hybrid
+MVD,BTAF1,Two-hybrid
+FANCA,SMARCA4,Two-hybrid
+XRN1,CHD4,Two-hybrid
+ARHGEF7,SHANK2,Two-hybrid
+FNBP1,TNKS,Two-hybrid
+BIRC5,AURKB,Two-hybrid
+TNFRSF25,TRADD,Two-hybrid
+XRN1,PABPC4,Two-hybrid
+ITGA3,RABIF,Two-hybrid
+RIPK3,RIPK1,Two-hybrid
+LSM7,MYH13,Two-hybrid
+MALT1,BCL10,Two-hybrid
+C9orf89,BCL10,Two-hybrid
+AP1S1,AP1G2,Two-hybrid
+AP1S1,AP1G1,Two-hybrid
+AP1S2,AP1G1,Two-hybrid
+AP1S2,AP1G2,Two-hybrid
+XRN1,AP1G2,Two-hybrid
+VAMP4,AP1M1,Two-hybrid
+MBD2,GPN1,Two-hybrid
+MBD3L1,MBD3,Two-hybrid
+TOP3B,CHD8,Two-hybrid
+RABEP1,HUNK,Two-hybrid
+UBOX5,UBE2L3,Two-hybrid
+HIC1,HIC1,Two-hybrid
+PDZK1,SLC22A4,Two-hybrid
+PDZK1,AKAP10,Two-hybrid
+PDZK1IP1,PDZK1,Two-hybrid
+PDZK1IP1,PDZK1,Two-hybrid
+PDZK1,SLC22A12,Two-hybrid
+DNM1L,GSK3B,Two-hybrid
+HEXIM1,CCNT2,Two-hybrid
+RNF7,CUL4A,Two-hybrid
+RNF7,CUL2,Two-hybrid
+RAB27A,SYTL4,Two-hybrid
+BYSL,TROAP,Two-hybrid
+RGS6,DMAP1,Two-hybrid
+ZNF174,ZNF174,Two-hybrid
+MPP6,EIF3G,Two-hybrid
+TACC3,AKAP9,Two-hybrid
+FNBP1,AKAP9,Two-hybrid
+DIS3,ZBTB17,Two-hybrid
+PLCB2,TRPM7,Two-hybrid
+PKP4,ERBB2IP,Two-hybrid
+ARHGEF11,PLXNB2,Two-hybrid
+RND1,PLXNB2,Two-hybrid
+LSM1,GRHPR,Two-hybrid
+COPG1,COPG2,Two-hybrid
+VPS37C,HGS,Two-hybrid
+GNA13,AKAP3,Two-hybrid
+GRAP2,GAB1,Two-hybrid
+GRAP2,CCNDBP1,Two-hybrid
+ANAPC5,PABPC1,Two-hybrid
+ITGAE,EED,Two-hybrid
+TOM1,TOLLIP,Two-hybrid
+TTF2,TNIP1,Two-hybrid
+TTF2,DCP1A,Two-hybrid
+TTF2,PDCD6IP,Two-hybrid
+TTF2,PRDX4,Two-hybrid
+TTF2,CLPB,Two-hybrid
+TTF2,TACC3,Two-hybrid
+STK16,NAGK,Two-hybrid
+NCKAP1,ABI1,Two-hybrid
+GADD45G,GADD45GIP1,Two-hybrid
+PACSIN2,PACSIN3,Two-hybrid
+UNC13B,SPTBN2,Two-hybrid
+KCNJ1,SLC9A3R1,Two-hybrid
+ARHGEF7,SHANK1,Two-hybrid
+UPF3A,GSK3B,Two-hybrid
+NBL1,UBQLN1,Two-hybrid
+UBQLN1,P4HB,Two-hybrid
+TARBP2,TARBP2,Two-hybrid
+EEA1,RAB22A,Two-hybrid
+URI1,DMAP1,Two-hybrid
+CNKSR1,RASSF1,Two-hybrid
+PARP4,MVP,Two-hybrid
+PARP4,MVP,Two-hybrid
+FHL5,FHL5,Two-hybrid
+EED,HDAC2,Two-hybrid
+DISC1,FEZ1,Two-hybrid
+MCL1,BOK,Two-hybrid
+SNX9,ADAM15,Two-hybrid
+RNF216,TLR9,Two-hybrid
+RAB11FIP4,RAB11A,Two-hybrid
+UPF3A,IFITM2,Two-hybrid
+TRIM10,TRIM10,Two-hybrid
+RHOQ,GOPC,Two-hybrid
+RHOQ,EXOC7,Two-hybrid
+PBLD,STRAP,Two-hybrid
+XRN2,TOLLIP,Two-hybrid
+ABI3,ABI3BP,Two-hybrid
+PINX1,MCRS1,Two-hybrid
+PRDX4,PRDX4,Two-hybrid
+PACSIN1,PACSIN3,Two-hybrid
+PACSIN1,PACSIN1,Two-hybrid
+TXNIP,ZBTB32,Two-hybrid
+CSPG5,GOPC,Two-hybrid
+ASIC3,GOPC,Two-hybrid
+ZMYND8,FHOD1,Two-hybrid
+HSH2D,TNK2,Two-hybrid
+IPO13,PAX6,Two-hybrid
+PLCB1,TRPM7,Two-hybrid
+OSTM1,RGS17,Two-hybrid
+OSTM1,RGS20,Two-hybrid
+ORC6,CDC7,Two-hybrid
+AP4E1,AP4B1,Two-hybrid
+CENPK,SOX6,Two-hybrid
+LSM1,VPS11,Two-hybrid
+LSM1,EXOSC8,Two-hybrid
+LSM1,EXOSC6,Two-hybrid
+LSM1,N4BP1,Two-hybrid
+LSM1,LSM2,Two-hybrid
+LSM2,LSM8,Two-hybrid
+LSM2,LSM3,Two-hybrid
+LSM2,LSM7,Two-hybrid
+LSM3,LSM7,Two-hybrid
+LSM3,XRN2,Two-hybrid
+LSM3,LSM10,Two-hybrid
+LSM4,XRN1,Two-hybrid
+LSM6,MCRS1,Two-hybrid
+LSM6,POLD2,Two-hybrid
+LSM7,EXOSC8,Two-hybrid
+LSM7,RAB29,Two-hybrid
+LSM7,EXOSC6,Two-hybrid
+LSM8,COL23A1,Two-hybrid
+LSM8,DBF4,Two-hybrid
+LSM8,KCTD3,Two-hybrid
+LSM8,EXOSC6,Two-hybrid
+LSM8,DCP1A,Two-hybrid
+LSM8,THUMPD3,Two-hybrid
+AIRE,AIRE,Two-hybrid
+ECT2,PARD6A,Two-hybrid
+LRPPRC,MAP1S,Two-hybrid
+LRPPRC,CECR2,Two-hybrid
+LRPPRC,HEBP2,Two-hybrid
+HSPB8,HSPB1,Two-hybrid
+XRN1,CCT5,Two-hybrid
+THEG,CCT5,Two-hybrid
+PPFIA1,GIT1,Two-hybrid
+SYNCRIP,PTPN11,Two-hybrid
+RARA,NRBF2,Two-hybrid
+RARA,ZBTB16,Two-hybrid
+MECR,RARA,Two-hybrid
+UFD1L,NPLOC4,Two-hybrid
+TRIB3,ATF4,Two-hybrid
+NPAS4,ARNT2,Two-hybrid
+PARN,SPATC1L,Two-hybrid
+EXOSC5,SFPQ,Two-hybrid
+THRB,NCOA2,Two-hybrid
+NRBF2,THRB,Two-hybrid
+GFI1,PIAS3,Two-hybrid
+NEDD9,ITCH,Two-hybrid
+TGS1,EED,Two-hybrid
+DHDDS,ND1,Two-hybrid
+MYCBP,MYCBPAP,Two-hybrid
+LOXL1,FBLN5,Two-hybrid
+MT2A,PRKD1,Two-hybrid
+PRKG1,NPR1,Two-hybrid
+SRC,ND2,Two-hybrid
+RNF11,EPS15,Two-hybrid
+KCNJ1,SLC9A3R2,Two-hybrid
+KCNG2,KCNB1,Two-hybrid
+DIO2,USP33,Two-hybrid
+UBE2I,CHD3,Two-hybrid
+TOPORS,UBE2I,Two-hybrid
+PER1,CRY1,Two-hybrid
+PER2,CRY1,Two-hybrid
+ARNTL,CRY1,Two-hybrid
+THAP1,PAWR,Two-hybrid
+SERBP1,CHD3,Two-hybrid
+HSF1,SYMPK,Two-hybrid
+DTNB,KIF5A,Two-hybrid
+MCM4,CDC7,Two-hybrid
+GNB2L1,NSMAF,Two-hybrid
+RBBP8,LMO4,Two-hybrid
+CCNE1,CUL3,Two-hybrid
+FKBP2,EPB41L2,Two-hybrid
+GRIA1,EPB41L2,Two-hybrid
+PDZD2,CTNND2,Two-hybrid
+GNG5,GNB5,Two-hybrid
+GNG4,GNB5,Two-hybrid
+GNG3,GNB5,Two-hybrid
+GNB5,GNG7,Two-hybrid
+ARL6,ARL6IP5,Two-hybrid
+PIKFYVE,RABEPK,Two-hybrid
+ARF3,GGA2,Two-hybrid
+SORT1,GGA2,Two-hybrid
+EXOSC6,EXOSC8,Two-hybrid
+EXOSC6,EXOSC7,Two-hybrid
+ZNF496,NSD1,Two-hybrid
+MPP6,ARHGAP18,Two-hybrid
+MPP6,KNSTRN,Two-hybrid
+MPP6,EXOSC10,Two-hybrid
+MPP6,SNX9,Two-hybrid
+MPP6,SKIV2L2,Two-hybrid
+MPP6,AATF,Two-hybrid
+PUM2,PUM2,Two-hybrid
+PUM2,NANOS1,Two-hybrid
+ARL6,ARL6IP4,Two-hybrid
+ARL6,ARL6IP1,Two-hybrid
+POLR1C,POLR1D,Two-hybrid
+DNAJA3,RNF34,Two-hybrid
+SYNE1,SYNE1,Two-hybrid
+ING4,RELA,Two-hybrid
+COPG1,COPZ1,Two-hybrid
+COPG1,COPZ2,Two-hybrid
+LRRC7,CNKSR2,Two-hybrid
+EXOC8,EXOC2,Two-hybrid
+ASIC3,LIN7B,Two-hybrid
+TCP10L,MXD4,Two-hybrid
+RND1,UBXN11,Two-hybrid
+EXOSC6,DNAJC30,Two-hybrid
+DXO,XRN2,Two-hybrid
+UPF2,XRN2,Two-hybrid
+ZHX1,ZHX3,Two-hybrid
+MAPKAPK2,PHC2,Two-hybrid
+CDC7,DBF4,Two-hybrid
+ARPC5,ARPC4,Two-hybrid
+CDC7,DBF4,Two-hybrid
+ZHX1,ZHX1,Two-hybrid
+MYPN,NEBL,Two-hybrid
+NIF3L1,THOC7,Two-hybrid
+GGA3,TSG101,Two-hybrid
+PHACTR3,PPP1CA,Two-hybrid
+ARL6,ATL2,Two-hybrid
+ARL6,ARL6IP6,Two-hybrid
+ARID1B,SMARCA4,Two-hybrid
+PRPF6,TXNL4B,Two-hybrid
+PPFIA1,ERC2,Two-hybrid
+ERC2,PPFIA4,Two-hybrid
+EVL,DNMBP,Two-hybrid
+VPS37A,VPS28,Two-hybrid
+PKD2L1,TNNI3,Two-hybrid
+TNNI3K,TNNI3,Two-hybrid
+ECT2,KLHL20,Two-hybrid
+TAF13,TAF10,Two-hybrid
+EXOSC6,EXOSC1,Two-hybrid
+CDK14,8-Sep,Two-hybrid
+TLK1,ASF1A,Two-hybrid
+TLK1,ASF1B,Two-hybrid
+ANKRD23,MYPN,Two-hybrid
+GOLGA7,GOLGA3,Two-hybrid
+CDHR2,MAST2,Two-hybrid
+SMAD2,Rasd2,Affinity Capture-Luminescence
+SMAD2,Rab34,Affinity Capture-Luminescence
+SMAD2,Rhebl1,Affinity Capture-Luminescence
+SMAD2,Rab38,Affinity Capture-Luminescence
+SMAD2,Rhobtb1,Affinity Capture-Luminescence
+SMAD2,Arhgef7,Affinity Capture-Luminescence
+SMAD2,Rps27a,Affinity Capture-Luminescence
+SMAD2,Fbxo3,Affinity Capture-Luminescence
+SMAD2,Sqstm1,Affinity Capture-Luminescence
+SMAD2,Ppp2r2d,Affinity Capture-Luminescence
+SMAD2,Map2k3,Affinity Capture-Luminescence
+SMAD2,Nuak2,Affinity Capture-Luminescence
+SMAD2,Uhmk1,Affinity Capture-Luminescence
+SMAD2,Arhgef6,Affinity Capture-Luminescence
+SMAD2,Rgs3,Affinity Capture-Luminescence
+SMAD2,Lhx9,Affinity Capture-Luminescence
+SMAD2,Trim35,Affinity Capture-Luminescence
+SMAD2,Wwp2,Affinity Capture-Luminescence
+SMAD2,Rhoj,Affinity Capture-Luminescence
+SMAD2,Rhod,Affinity Capture-Luminescence
+SMAD2,Arl4d,Affinity Capture-Luminescence
+SMAD2,Arhgef1,Affinity Capture-Luminescence
+SMAD2,Cdc40,Affinity Capture-Luminescence
+SMAD2,Irak2,Affinity Capture-Luminescence
+SMAD2,Lmo2,Affinity Capture-Luminescence
+SMAD2,Smad2,Affinity Capture-Luminescence
+SMAD2,Smad3,Affinity Capture-Luminescence
+SMAD3,Rras2,Affinity Capture-Luminescence
+SMAD3,Arhgef7,Affinity Capture-Luminescence
+SMAD3,Ppp2r2d,Affinity Capture-Luminescence
+SMAD3,Wwp2,Affinity Capture-Luminescence
+SMAD3,Rasd2,Affinity Capture-Luminescence
+SMAD3,Rab38,Affinity Capture-Luminescence
+SMAD3,Fbxo3,Affinity Capture-Luminescence
+SMAD3,Sqstm1,Affinity Capture-Luminescence
+SMAD3,Map2k3,Affinity Capture-Luminescence
+SMAD3,Wee1,Affinity Capture-Luminescence
+SMAD3,Arhgef6,Affinity Capture-Luminescence
+SMAD3,Rgs3,Affinity Capture-Luminescence
+SMAD3,Trim35,Affinity Capture-Luminescence
+SMAD3,Clasrp,Affinity Capture-Luminescence
+SMAD3,Smad2,Affinity Capture-Luminescence
+SMAD3,Smad3,Affinity Capture-Luminescence
+SMAD3,Gsc,Affinity Capture-Luminescence
+SMAD4,Rhog,Affinity Capture-Luminescence
+SMAD4,Rasd2,Affinity Capture-Luminescence
+SMAD4,Rab13,Affinity Capture-Luminescence
+SMAD4,Rhoj,Affinity Capture-Luminescence
+SMAD4,Rab2b,Affinity Capture-Luminescence
+SMAD4,Rhod,Affinity Capture-Luminescence
+SMAD4,Rac2,Affinity Capture-Luminescence
+SMAD4,Nras,Affinity Capture-Luminescence
+SMAD4,Rab3b,Affinity Capture-Luminescence
+SMAD4,Rab38,Affinity Capture-Luminescence
+SMAD4,Rras2,Affinity Capture-Luminescence
+SMAD4,Arfrp1,Affinity Capture-Luminescence
+SMAD4,Arl5b,Affinity Capture-Luminescence
+SMAD4,Arhgef11,Affinity Capture-Luminescence
+SMAD4,Arhgef7,Affinity Capture-Luminescence
+SMAD4,Sqstm1,Affinity Capture-Luminescence
+SMAD4,Nek6,Affinity Capture-Luminescence
+SMAD4,Stk35,Affinity Capture-Luminescence
+SMAD4,Ripk2,Affinity Capture-Luminescence
+SMAD4,Map2k3,Affinity Capture-Luminescence
+SMAD4,Chek1,Affinity Capture-Luminescence
+SMAD4,Eif2ak4,Affinity Capture-Luminescence
+SMAD4,Nuak2,Affinity Capture-Luminescence
+SMAD4,Tssk3,Affinity Capture-Luminescence
+SMAD4,Pbk,Affinity Capture-Luminescence
+SMAD4,Uhmk1,Affinity Capture-Luminescence
+SMAD4,Plk4,Affinity Capture-Luminescence
+SMAD4,Ilkap,Affinity Capture-Luminescence
+SMAD4,Trim35,Affinity Capture-Luminescence
+SMAD4,Rnf14,Affinity Capture-Luminescence
